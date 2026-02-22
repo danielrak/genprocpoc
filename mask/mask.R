@@ -22,7 +22,9 @@ lfiles_df <- data.frame(lfiles) %>%
   mutate(input_dir = dirname(lfiles),
          input_file = basename(lfiles),
          output_dir = path_output,
-         output_path = str_replace(input_file, "\\.rds$", ".csv"))
+         output_file = str_replace(input_file, "\\.rds$", ".csv"))
+
+
 
 # Export ------------------------------------------------------------------
 

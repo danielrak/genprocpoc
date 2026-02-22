@@ -1,4 +1,4 @@
-lfiles,input_dir,input_file,output_dir,output_path
+lfiles,input_dir,input_file,output_dir,output_file
 ./r_built_in_datasets/ability.cov.rds,./r_built_in_datasets,ability.cov.rds,./out,ability.cov.csv
 ./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles.csv
 ./r_built_in_datasets/AirPassengers.rds,./r_built_in_datasets,AirPassengers.rds,./out,AirPassengers.csv
@@ -7,6 +7,9 @@ lfiles,input_dir,input_file,output_dir,output_path
 ./r_built_in_datasets/attenu.rds,./r_built_in_datasets,attenu.rds,./out,attenu.csv
 ./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude.csv
 ./r_built_in_datasets/austres.rds,./r_built_in_datasets,austres.rds,./out,austres.csv
+./r_built_in_datasets/band_instruments.rds,./r_built_in_datasets,band_instruments.rds,./out,band_instruments.csv
+./r_built_in_datasets/band_instruments2.rds,./r_built_in_datasets,band_instruments2.rds,./out,band_instruments2.csv
+./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members.csv
 ./r_built_in_datasets/BJsales.rds,./r_built_in_datasets,BJsales.rds,./out,BJsales.csv
 ./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD.csv
 ./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars.csv
@@ -23,6 +26,7 @@ lfiles,input_dir,input_file,output_dir,output_path
 ./r_built_in_datasets/faithful.rds,./r_built_in_datasets,faithful.rds,./out,faithful.csv
 ./r_built_in_datasets/Formaldehyde.rds,./r_built_in_datasets,Formaldehyde.rds,./out,Formaldehyde.csv
 ./r_built_in_datasets/freeny.rds,./r_built_in_datasets,freeny.rds,./out,freeny.csv
+./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit.csv
 ./r_built_in_datasets/gait.rds,./r_built_in_datasets,gait.rds,./out,gait.csv
 ./r_built_in_datasets/HairEyeColor.rds,./r_built_in_datasets,HairEyeColor.rds,./out,HairEyeColor.csv
 ./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor.csv
@@ -61,8 +65,11 @@ lfiles,input_dir,input_file,output_dir,output_path
 ./r_built_in_datasets/rivers.rds,./r_built_in_datasets,rivers.rds,./out,rivers.csv
 ./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock.csv
 ./r_built_in_datasets/Seatbelts.rds,./r_built_in_datasets,Seatbelts.rds,./out,Seatbelts.csv
+./r_built_in_datasets/sentences.rds,./r_built_in_datasets,sentences.rds,./out,sentences.csv
 ./r_built_in_datasets/sleep.rds,./r_built_in_datasets,sleep.rds,./out,sleep.csv
 ./r_built_in_datasets/stackloss.rds,./r_built_in_datasets,stackloss.rds,./out,stackloss.csv
+./r_built_in_datasets/starwars.rds,./r_built_in_datasets,starwars.rds,./out,starwars.csv
+./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms.csv
 ./r_built_in_datasets/sunspot.month.rds,./r_built_in_datasets,sunspot.month.rds,./out,sunspot.month.csv
 ./r_built_in_datasets/sunspot.year.rds,./r_built_in_datasets,sunspot.year.rds,./out,sunspot.year.csv
 ./r_built_in_datasets/sunspots.rds,./r_built_in_datasets,sunspots.rds,./out,sunspots.csv
@@ -85,5 +92,6 @@ lfiles,input_dir,input_file,output_dir,output_path
 ./r_built_in_datasets/volcano.rds,./r_built_in_datasets,volcano.rds,./out,volcano.csv
 ./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks.csv
 ./r_built_in_datasets/women.rds,./r_built_in_datasets,women.rds,./out,women.csv
+./r_built_in_datasets/words.rds,./r_built_in_datasets,words.rds,./out,words.csv
 ./r_built_in_datasets/WorldPhones.rds,./r_built_in_datasets,WorldPhones.rds,./out,WorldPhones.csv
 ./r_built_in_datasets/WWWusage.rds,./r_built_in_datasets,WWWusage.rds,./out,WWWusage.csv
