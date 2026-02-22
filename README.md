@@ -226,3 +226,14 @@ It is harder to design code that:
 - Remains reproducible
 
 `genproc` is an exploration of that difference.
+
+## AI Assistance & Authorship
+
+This project originates from the author’s independent research and engineering vision.  
+Its philosophy, system design, and early experimental versions were conceived and orchestrated by the author.
+
+AI tools (LLMs) were intentionally integrated into the development workflow as cognitive accelerators — assisting with:
+- prototyping and refactoring,
+- scenario exploration,
+- stress-testing design assumptions,
+- documentation refinement.
