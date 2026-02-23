@@ -1,11 +1,14 @@
 # Minimal & parallelized & non-blocking
 # Using: furrr:: & callr::
 
-# NB: here we need to insert all required codes 
-
 # Packages ----------------------------------------------------------------
 
 library(callr)
+library(readr)
+
+# Parameters --------------------------------------------------------------
+
+path_mask <- "./mask"
 
 # Mask --------------------------------------------------------------------
 
@@ -37,4 +40,3 @@ myop <-
   # some meta logging options to maybe explore more in the logging phase
   stdout = "./operations/non_blocking/operations_non_blocking_stdout.log",
   stderr = "./operations/non_blocking/operations_non_blocking_stderr.log")
-

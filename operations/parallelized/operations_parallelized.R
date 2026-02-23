@@ -7,6 +7,10 @@ library(dplyr)
 library(furrr)
 library(readr)
 
+# Parameters --------------------------------------------------------------
+
+path_mask <- "./mask"
+
 # Mask --------------------------------------------------------------------
 
 mask <- read_csv(file.path(path_mask, "mask.csv"))

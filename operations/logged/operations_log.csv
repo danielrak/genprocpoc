@@ -1,0 +1,97 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,op_id,success,error_message
+1,./r_built_in_datasets/ability.cov.rds,./r_built_in_datasets,ability.cov.rds,./out,ability.cov.csv,1,FALSE,is.data.frame(x) n'est pas TRUE
+2,./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles.csv,2,FALSE,is.data.frame(x) n'est pas TRUE
+3,./r_built_in_datasets/AirPassengers.rds,./r_built_in_datasets,AirPassengers.rds,./out,AirPassengers.csv,3,FALSE,is.data.frame(x) n'est pas TRUE
+4,./r_built_in_datasets/airquality.rds,./r_built_in_datasets,airquality.rds,./out,airquality.csv,4,TRUE,NA
+5,./r_built_in_datasets/anscombe.rds,./r_built_in_datasets,anscombe.rds,./out,anscombe.csv,5,TRUE,NA
+6,./r_built_in_datasets/attenu.rds,./r_built_in_datasets,attenu.rds,./out,attenu.csv,6,TRUE,NA
+7,./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude.csv,7,TRUE,NA
+8,./r_built_in_datasets/austres.rds,./r_built_in_datasets,austres.rds,./out,austres.csv,8,FALSE,is.data.frame(x) n'est pas TRUE
+9,./r_built_in_datasets/band_instruments.rds,./r_built_in_datasets,band_instruments.rds,./out,band_instruments.csv,9,TRUE,NA
+10,./r_built_in_datasets/band_instruments2.rds,./r_built_in_datasets,band_instruments2.rds,./out,band_instruments2.csv,10,TRUE,NA
+11,./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members.csv,11,TRUE,NA
+12,./r_built_in_datasets/BJsales.rds,./r_built_in_datasets,BJsales.rds,./out,BJsales.csv,12,FALSE,is.data.frame(x) n'est pas TRUE
+13,./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD.csv,13,TRUE,NA
+14,./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars.csv,14,TRUE,NA
+15,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight.csv,15,TRUE,NA
+16,./r_built_in_datasets/chickwts.rds,./r_built_in_datasets,chickwts.rds,./out,chickwts.csv,16,TRUE,NA
+17,./r_built_in_datasets/CO2.rds,./r_built_in_datasets,CO2.rds,./out,CO2.csv,17,FALSE,is.data.frame(x) n'est pas TRUE
+18,./r_built_in_datasets/crimtab.rds,./r_built_in_datasets,crimtab.rds,./out,crimtab.csv,18,FALSE,is.data.frame(x) n'est pas TRUE
+19,./r_built_in_datasets/discoveries.rds,./r_built_in_datasets,discoveries.rds,./out,discoveries.csv,19,FALSE,is.data.frame(x) n'est pas TRUE
+20,./r_built_in_datasets/DNase.rds,./r_built_in_datasets,DNase.rds,./out,DNase.csv,20,TRUE,NA
+21,./r_built_in_datasets/esoph.rds,./r_built_in_datasets,esoph.rds,./out,esoph.csv,21,TRUE,NA
+22,./r_built_in_datasets/euro.rds,./r_built_in_datasets,euro.rds,./out,euro.csv,22,FALSE,is.data.frame(x) n'est pas TRUE
+23,./r_built_in_datasets/eurodist.rds,./r_built_in_datasets,eurodist.rds,./out,eurodist.csv,23,FALSE,is.data.frame(x) n'est pas TRUE
+24,./r_built_in_datasets/EuStockMarkets.rds,./r_built_in_datasets,EuStockMarkets.rds,./out,EuStockMarkets.csv,24,FALSE,is.data.frame(x) n'est pas TRUE
+25,./r_built_in_datasets/faithful.rds,./r_built_in_datasets,faithful.rds,./out,faithful.csv,25,TRUE,NA
+26,./r_built_in_datasets/Formaldehyde.rds,./r_built_in_datasets,Formaldehyde.rds,./out,Formaldehyde.csv,26,TRUE,NA
+27,./r_built_in_datasets/freeny.rds,./r_built_in_datasets,freeny.rds,./out,freeny.csv,27,TRUE,NA
+28,./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit.csv,28,FALSE,is.data.frame(x) n'est pas TRUE
+29,./r_built_in_datasets/gait.rds,./r_built_in_datasets,gait.rds,./out,gait.csv,29,FALSE,is.data.frame(x) n'est pas TRUE
+30,./r_built_in_datasets/HairEyeColor.rds,./r_built_in_datasets,HairEyeColor.rds,./out,HairEyeColor.csv,30,FALSE,is.data.frame(x) n'est pas TRUE
+31,./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor.csv,31,FALSE,is.data.frame(x) n'est pas TRUE
+32,./r_built_in_datasets/Harman74.cor.rds,./r_built_in_datasets,Harman74.cor.rds,./out,Harman74.cor.csv,32,FALSE,is.data.frame(x) n'est pas TRUE
+33,./r_built_in_datasets/Indometh.rds,./r_built_in_datasets,Indometh.rds,./out,Indometh.csv,33,TRUE,NA
+34,./r_built_in_datasets/infert.rds,./r_built_in_datasets,infert.rds,./out,infert.csv,34,TRUE,NA
+35,./r_built_in_datasets/InsectSprays.rds,./r_built_in_datasets,InsectSprays.rds,./out,InsectSprays.csv,35,TRUE,NA
+36,./r_built_in_datasets/iris.rds,./r_built_in_datasets,iris.rds,./out,iris.csv,36,TRUE,NA
+37,./r_built_in_datasets/iris3.rds,./r_built_in_datasets,iris3.rds,./out,iris3.csv,37,FALSE,is.data.frame(x) n'est pas TRUE
+38,./r_built_in_datasets/islands.rds,./r_built_in_datasets,islands.rds,./out,islands.csv,38,FALSE,is.data.frame(x) n'est pas TRUE
+39,./r_built_in_datasets/JohnsonJohnson.rds,./r_built_in_datasets,JohnsonJohnson.rds,./out,JohnsonJohnson.csv,39,FALSE,is.data.frame(x) n'est pas TRUE
+40,./r_built_in_datasets/LakeHuron.rds,./r_built_in_datasets,LakeHuron.rds,./out,LakeHuron.csv,40,FALSE,is.data.frame(x) n'est pas TRUE
+41,./r_built_in_datasets/lh.rds,./r_built_in_datasets,lh.rds,./out,lh.csv,41,FALSE,is.data.frame(x) n'est pas TRUE
+42,./r_built_in_datasets/LifeCycleSavings.rds,./r_built_in_datasets,LifeCycleSavings.rds,./out,LifeCycleSavings.csv,42,TRUE,NA
+43,./r_built_in_datasets/Loblolly.rds,./r_built_in_datasets,Loblolly.rds,./out,Loblolly.csv,43,TRUE,NA
+44,./r_built_in_datasets/longley.rds,./r_built_in_datasets,longley.rds,./out,longley.csv,44,TRUE,NA
+45,./r_built_in_datasets/lynx.rds,./r_built_in_datasets,lynx.rds,./out,lynx.csv,45,FALSE,is.data.frame(x) n'est pas TRUE
+46,./r_built_in_datasets/morley.rds,./r_built_in_datasets,morley.rds,./out,morley.csv,46,TRUE,NA
+47,./r_built_in_datasets/mtcars.rds,./r_built_in_datasets,mtcars.rds,./out,mtcars.csv,47,TRUE,NA
+48,./r_built_in_datasets/nhtemp.rds,./r_built_in_datasets,nhtemp.rds,./out,nhtemp.csv,48,FALSE,is.data.frame(x) n'est pas TRUE
+49,./r_built_in_datasets/Nile.rds,./r_built_in_datasets,Nile.rds,./out,Nile.csv,49,FALSE,is.data.frame(x) n'est pas TRUE
+50,./r_built_in_datasets/nottem.rds,./r_built_in_datasets,nottem.rds,./out,nottem.csv,50,FALSE,is.data.frame(x) n'est pas TRUE
+51,./r_built_in_datasets/npk.rds,./r_built_in_datasets,npk.rds,./out,npk.csv,51,TRUE,NA
+52,./r_built_in_datasets/occupationalStatus.rds,./r_built_in_datasets,occupationalStatus.rds,./out,occupationalStatus.csv,52,FALSE,is.data.frame(x) n'est pas TRUE
+53,./r_built_in_datasets/Orange.rds,./r_built_in_datasets,Orange.rds,./out,Orange.csv,53,TRUE,NA
+54,./r_built_in_datasets/OrchardSprays.rds,./r_built_in_datasets,OrchardSprays.rds,./out,OrchardSprays.csv,54,TRUE,NA
+55,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins.csv,55,TRUE,NA
+56,./r_built_in_datasets/PlantGrowth.rds,./r_built_in_datasets,PlantGrowth.rds,./out,PlantGrowth.csv,56,TRUE,NA
+57,./r_built_in_datasets/precip.rds,./r_built_in_datasets,precip.rds,./out,precip.csv,57,FALSE,is.data.frame(x) n'est pas TRUE
+58,./r_built_in_datasets/presidents.rds,./r_built_in_datasets,presidents.rds,./out,presidents.csv,58,FALSE,is.data.frame(x) n'est pas TRUE
+59,./r_built_in_datasets/pressure.rds,./r_built_in_datasets,pressure.rds,./out,pressure.csv,59,TRUE,NA
+60,./r_built_in_datasets/Puromycin.rds,./r_built_in_datasets,Puromycin.rds,./out,Puromycin.csv,60,TRUE,NA
+61,./r_built_in_datasets/quakes.rds,./r_built_in_datasets,quakes.rds,./out,quakes.csv,61,TRUE,NA
+62,./r_built_in_datasets/r_built_in_datasets.R,./r_built_in_datasets,r_built_in_datasets.R,./out,r_built_in_datasets.R,62,FALSE,format d'entrée inconnu
+63,./r_built_in_datasets/randu.rds,./r_built_in_datasets,randu.rds,./out,randu.csv,63,TRUE,NA
+64,./r_built_in_datasets/rivers.rds,./r_built_in_datasets,rivers.rds,./out,rivers.csv,64,FALSE,is.data.frame(x) n'est pas TRUE
+65,./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock.csv,65,TRUE,NA
+66,./r_built_in_datasets/Seatbelts.rds,./r_built_in_datasets,Seatbelts.rds,./out,Seatbelts.csv,66,FALSE,is.data.frame(x) n'est pas TRUE
+67,./r_built_in_datasets/sentences.rds,./r_built_in_datasets,sentences.rds,./out,sentences.csv,67,FALSE,is.data.frame(x) n'est pas TRUE
+68,./r_built_in_datasets/sleep.rds,./r_built_in_datasets,sleep.rds,./out,sleep.csv,68,TRUE,NA
+69,./r_built_in_datasets/stackloss.rds,./r_built_in_datasets,stackloss.rds,./out,stackloss.csv,69,TRUE,NA
+70,./r_built_in_datasets/starwars.rds,./r_built_in_datasets,starwars.rds,./out,starwars.csv,70,TRUE,NA
+71,./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms.csv,71,TRUE,NA
+72,./r_built_in_datasets/sunspot.month.rds,./r_built_in_datasets,sunspot.month.rds,./out,sunspot.month.csv,72,FALSE,is.data.frame(x) n'est pas TRUE
+73,./r_built_in_datasets/sunspot.year.rds,./r_built_in_datasets,sunspot.year.rds,./out,sunspot.year.csv,73,FALSE,is.data.frame(x) n'est pas TRUE
+74,./r_built_in_datasets/sunspots.rds,./r_built_in_datasets,sunspots.rds,./out,sunspots.csv,74,FALSE,is.data.frame(x) n'est pas TRUE
+75,./r_built_in_datasets/swiss.rds,./r_built_in_datasets,swiss.rds,./out,swiss.csv,75,TRUE,NA
+76,./r_built_in_datasets/Theoph.rds,./r_built_in_datasets,Theoph.rds,./out,Theoph.csv,76,TRUE,NA
+77,./r_built_in_datasets/Titanic.rds,./r_built_in_datasets,Titanic.rds,./out,Titanic.csv,77,FALSE,is.data.frame(x) n'est pas TRUE
+78,./r_built_in_datasets/ToothGrowth.rds,./r_built_in_datasets,ToothGrowth.rds,./out,ToothGrowth.csv,78,TRUE,NA
+79,./r_built_in_datasets/treering.rds,./r_built_in_datasets,treering.rds,./out,treering.csv,79,FALSE,is.data.frame(x) n'est pas TRUE
+80,./r_built_in_datasets/trees.rds,./r_built_in_datasets,trees.rds,./out,trees.csv,80,TRUE,NA
+81,./r_built_in_datasets/UCBAdmissions.rds,./r_built_in_datasets,UCBAdmissions.rds,./out,UCBAdmissions.csv,81,FALSE,is.data.frame(x) n'est pas TRUE
+82,./r_built_in_datasets/UKDriverDeaths.rds,./r_built_in_datasets,UKDriverDeaths.rds,./out,UKDriverDeaths.csv,82,FALSE,is.data.frame(x) n'est pas TRUE
+83,./r_built_in_datasets/UKgas.rds,./r_built_in_datasets,UKgas.rds,./out,UKgas.csv,83,FALSE,is.data.frame(x) n'est pas TRUE
+84,./r_built_in_datasets/USAccDeaths.rds,./r_built_in_datasets,USAccDeaths.rds,./out,USAccDeaths.csv,84,FALSE,is.data.frame(x) n'est pas TRUE
+85,./r_built_in_datasets/USArrests.rds,./r_built_in_datasets,USArrests.rds,./out,USArrests.csv,85,TRUE,NA
+86,./r_built_in_datasets/UScitiesD.rds,./r_built_in_datasets,UScitiesD.rds,./out,UScitiesD.csv,86,FALSE,is.data.frame(x) n'est pas TRUE
+87,./r_built_in_datasets/USJudgeRatings.rds,./r_built_in_datasets,USJudgeRatings.rds,./out,USJudgeRatings.csv,87,TRUE,NA
+88,./r_built_in_datasets/USPersonalExpenditure.rds,./r_built_in_datasets,USPersonalExpenditure.rds,./out,USPersonalExpenditure.csv,88,FALSE,is.data.frame(x) n'est pas TRUE
+89,./r_built_in_datasets/uspop.rds,./r_built_in_datasets,uspop.rds,./out,uspop.csv,89,FALSE,is.data.frame(x) n'est pas TRUE
+90,./r_built_in_datasets/VADeaths.rds,./r_built_in_datasets,VADeaths.rds,./out,VADeaths.csv,90,FALSE,is.data.frame(x) n'est pas TRUE
+91,./r_built_in_datasets/volcano.rds,./r_built_in_datasets,volcano.rds,./out,volcano.csv,91,FALSE,is.data.frame(x) n'est pas TRUE
+92,./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks.csv,92,TRUE,NA
+93,./r_built_in_datasets/women.rds,./r_built_in_datasets,women.rds,./out,women.csv,93,TRUE,NA
+94,./r_built_in_datasets/words.rds,./r_built_in_datasets,words.rds,./out,words.csv,94,FALSE,is.data.frame(x) n'est pas TRUE
+95,./r_built_in_datasets/WorldPhones.rds,./r_built_in_datasets,WorldPhones.rds,./out,WorldPhones.csv,95,FALSE,is.data.frame(x) n'est pas TRUE
+96,./r_built_in_datasets/WWWusage.rds,./r_built_in_datasets,WWWusage.rds,./out,WWWusage.csv,96,FALSE,is.data.frame(x) n'est pas TRUE
