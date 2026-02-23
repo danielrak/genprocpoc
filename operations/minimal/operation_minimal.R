@@ -3,6 +3,7 @@
 
 # Packages ----------------------------------------------------------------
 
+library(dplyr)
 library(purrr)
 library(readr)
 
@@ -47,6 +48,18 @@ conversion_function
 conversion_function(param_1 = "./r_built_in_datasets", param_2 = "anscombe.rds",
                     param_3 = "./out", param_4 = "anscombe.csv")
 # ./out/anscombe.csv should now be produced
+
+
+# Export the function ---------------------------------------
+
+# For next steps: 
+# parallelized, 
+# parallelized & non-blocking, 
+# parallelized & non-blocking & logged
+# parallilized & non-blocking & logged & monitored
+
+save(conversion_function, file = "./operations/conversion_function.rda", 
+     version = 2)
 
 # Operation ---------------------------------------------------------------
 
