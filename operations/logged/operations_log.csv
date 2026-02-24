@@ -1,97 +1,716 @@
 .mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-1,./r_built_in_datasets/ability.cov.rds,./r_built_in_datasets,ability.cov.rds,./out,ability.cov.csv,FALSE,is.data.frame(x) n'est pas TRUE
-2,./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles.csv,FALSE,is.data.frame(x) n'est pas TRUE
-3,./r_built_in_datasets/AirPassengers.rds,./r_built_in_datasets,AirPassengers.rds,./out,AirPassengers.csv,FALSE,is.data.frame(x) n'est pas TRUE
-4,./r_built_in_datasets/airquality.rds,./r_built_in_datasets,airquality.rds,./out,airquality.csv,TRUE,NA
-5,./r_built_in_datasets/anscombe.rds,./r_built_in_datasets,anscombe.rds,./out,anscombe.csv,TRUE,NA
-6,./r_built_in_datasets/attenu.rds,./r_built_in_datasets,attenu.rds,./out,attenu.csv,TRUE,NA
-7,./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude.csv,TRUE,NA
-8,./r_built_in_datasets/austres.rds,./r_built_in_datasets,austres.rds,./out,austres.csv,FALSE,is.data.frame(x) n'est pas TRUE
-9,./r_built_in_datasets/band_instruments.rds,./r_built_in_datasets,band_instruments.rds,./out,band_instruments.csv,TRUE,NA
-10,./r_built_in_datasets/band_instruments2.rds,./r_built_in_datasets,band_instruments2.rds,./out,band_instruments2.csv,TRUE,NA
-11,./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members.csv,TRUE,NA
-12,./r_built_in_datasets/BJsales.rds,./r_built_in_datasets,BJsales.rds,./out,BJsales.csv,FALSE,is.data.frame(x) n'est pas TRUE
-13,./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD.csv,TRUE,NA
-14,./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars.csv,TRUE,NA
-15,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight.csv,TRUE,NA
-16,./r_built_in_datasets/chickwts.rds,./r_built_in_datasets,chickwts.rds,./out,chickwts.csv,TRUE,NA
-17,./r_built_in_datasets/CO2.rds,./r_built_in_datasets,CO2.rds,./out,CO2.csv,FALSE,is.data.frame(x) n'est pas TRUE
-18,./r_built_in_datasets/crimtab.rds,./r_built_in_datasets,crimtab.rds,./out,crimtab.csv,FALSE,is.data.frame(x) n'est pas TRUE
-19,./r_built_in_datasets/discoveries.rds,./r_built_in_datasets,discoveries.rds,./out,discoveries.csv,FALSE,is.data.frame(x) n'est pas TRUE
-20,./r_built_in_datasets/DNase.rds,./r_built_in_datasets,DNase.rds,./out,DNase.csv,TRUE,NA
-21,./r_built_in_datasets/esoph.rds,./r_built_in_datasets,esoph.rds,./out,esoph.csv,TRUE,NA
-22,./r_built_in_datasets/euro.rds,./r_built_in_datasets,euro.rds,./out,euro.csv,FALSE,is.data.frame(x) n'est pas TRUE
-23,./r_built_in_datasets/eurodist.rds,./r_built_in_datasets,eurodist.rds,./out,eurodist.csv,FALSE,is.data.frame(x) n'est pas TRUE
-24,./r_built_in_datasets/EuStockMarkets.rds,./r_built_in_datasets,EuStockMarkets.rds,./out,EuStockMarkets.csv,FALSE,is.data.frame(x) n'est pas TRUE
-25,./r_built_in_datasets/faithful.rds,./r_built_in_datasets,faithful.rds,./out,faithful.csv,TRUE,NA
-26,./r_built_in_datasets/Formaldehyde.rds,./r_built_in_datasets,Formaldehyde.rds,./out,Formaldehyde.csv,TRUE,NA
-27,./r_built_in_datasets/freeny.rds,./r_built_in_datasets,freeny.rds,./out,freeny.csv,TRUE,NA
-28,./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit.csv,FALSE,is.data.frame(x) n'est pas TRUE
-29,./r_built_in_datasets/gait.rds,./r_built_in_datasets,gait.rds,./out,gait.csv,FALSE,is.data.frame(x) n'est pas TRUE
-30,./r_built_in_datasets/HairEyeColor.rds,./r_built_in_datasets,HairEyeColor.rds,./out,HairEyeColor.csv,FALSE,is.data.frame(x) n'est pas TRUE
-31,./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor.csv,FALSE,is.data.frame(x) n'est pas TRUE
-32,./r_built_in_datasets/Harman74.cor.rds,./r_built_in_datasets,Harman74.cor.rds,./out,Harman74.cor.csv,FALSE,is.data.frame(x) n'est pas TRUE
-33,./r_built_in_datasets/Indometh.rds,./r_built_in_datasets,Indometh.rds,./out,Indometh.csv,TRUE,NA
-34,./r_built_in_datasets/infert.rds,./r_built_in_datasets,infert.rds,./out,infert.csv,TRUE,NA
-35,./r_built_in_datasets/InsectSprays.rds,./r_built_in_datasets,InsectSprays.rds,./out,InsectSprays.csv,TRUE,NA
-36,./r_built_in_datasets/iris.rds,./r_built_in_datasets,iris.rds,./out,iris.csv,TRUE,NA
-37,./r_built_in_datasets/iris3.rds,./r_built_in_datasets,iris3.rds,./out,iris3.csv,FALSE,is.data.frame(x) n'est pas TRUE
-38,./r_built_in_datasets/islands.rds,./r_built_in_datasets,islands.rds,./out,islands.csv,FALSE,is.data.frame(x) n'est pas TRUE
-39,./r_built_in_datasets/JohnsonJohnson.rds,./r_built_in_datasets,JohnsonJohnson.rds,./out,JohnsonJohnson.csv,FALSE,is.data.frame(x) n'est pas TRUE
-40,./r_built_in_datasets/LakeHuron.rds,./r_built_in_datasets,LakeHuron.rds,./out,LakeHuron.csv,FALSE,is.data.frame(x) n'est pas TRUE
-41,./r_built_in_datasets/lh.rds,./r_built_in_datasets,lh.rds,./out,lh.csv,FALSE,is.data.frame(x) n'est pas TRUE
-42,./r_built_in_datasets/LifeCycleSavings.rds,./r_built_in_datasets,LifeCycleSavings.rds,./out,LifeCycleSavings.csv,TRUE,NA
-43,./r_built_in_datasets/Loblolly.rds,./r_built_in_datasets,Loblolly.rds,./out,Loblolly.csv,TRUE,NA
-44,./r_built_in_datasets/longley.rds,./r_built_in_datasets,longley.rds,./out,longley.csv,TRUE,NA
-45,./r_built_in_datasets/lynx.rds,./r_built_in_datasets,lynx.rds,./out,lynx.csv,FALSE,is.data.frame(x) n'est pas TRUE
-46,./r_built_in_datasets/morley.rds,./r_built_in_datasets,morley.rds,./out,morley.csv,TRUE,NA
-47,./r_built_in_datasets/mtcars.rds,./r_built_in_datasets,mtcars.rds,./out,mtcars.csv,TRUE,NA
-48,./r_built_in_datasets/nhtemp.rds,./r_built_in_datasets,nhtemp.rds,./out,nhtemp.csv,FALSE,is.data.frame(x) n'est pas TRUE
-49,./r_built_in_datasets/Nile.rds,./r_built_in_datasets,Nile.rds,./out,Nile.csv,FALSE,is.data.frame(x) n'est pas TRUE
-50,./r_built_in_datasets/nottem.rds,./r_built_in_datasets,nottem.rds,./out,nottem.csv,FALSE,is.data.frame(x) n'est pas TRUE
-51,./r_built_in_datasets/npk.rds,./r_built_in_datasets,npk.rds,./out,npk.csv,TRUE,NA
-52,./r_built_in_datasets/occupationalStatus.rds,./r_built_in_datasets,occupationalStatus.rds,./out,occupationalStatus.csv,FALSE,is.data.frame(x) n'est pas TRUE
-53,./r_built_in_datasets/Orange.rds,./r_built_in_datasets,Orange.rds,./out,Orange.csv,TRUE,NA
-54,./r_built_in_datasets/OrchardSprays.rds,./r_built_in_datasets,OrchardSprays.rds,./out,OrchardSprays.csv,TRUE,NA
-55,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins.csv,TRUE,NA
-56,./r_built_in_datasets/PlantGrowth.rds,./r_built_in_datasets,PlantGrowth.rds,./out,PlantGrowth.csv,TRUE,NA
-57,./r_built_in_datasets/precip.rds,./r_built_in_datasets,precip.rds,./out,precip.csv,FALSE,is.data.frame(x) n'est pas TRUE
-58,./r_built_in_datasets/presidents.rds,./r_built_in_datasets,presidents.rds,./out,presidents.csv,FALSE,is.data.frame(x) n'est pas TRUE
-59,./r_built_in_datasets/pressure.rds,./r_built_in_datasets,pressure.rds,./out,pressure.csv,TRUE,NA
-60,./r_built_in_datasets/Puromycin.rds,./r_built_in_datasets,Puromycin.rds,./out,Puromycin.csv,TRUE,NA
-61,./r_built_in_datasets/quakes.rds,./r_built_in_datasets,quakes.rds,./out,quakes.csv,TRUE,NA
+1,./r_built_in_datasets/ability.cov.rds,./r_built_in_datasets,ability.cov.rds,./out,ability.cov_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+2,./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+3,./r_built_in_datasets/AirPassengers.rds,./r_built_in_datasets,AirPassengers.rds,./out,AirPassengers_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+4,./r_built_in_datasets/airquality.rds,./r_built_in_datasets,airquality.rds,./out,airquality_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/airquality_1.csv'"
+5,./r_built_in_datasets/anscombe.rds,./r_built_in_datasets,anscombe.rds,./out,anscombe_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/anscombe_1.csv'"
+6,./r_built_in_datasets/attenu.rds,./r_built_in_datasets,attenu.rds,./out,attenu_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attenu_1.csv'"
+7,./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attitude_1.csv'"
+8,./r_built_in_datasets/austres.rds,./r_built_in_datasets,austres.rds,./out,austres_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+9,./r_built_in_datasets/band_instruments.rds,./r_built_in_datasets,band_instruments.rds,./out,band_instruments_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments_1.csv'"
+10,./r_built_in_datasets/band_instruments2.rds,./r_built_in_datasets,band_instruments2.rds,./out,band_instruments2_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments2_1.csv'"
+11,./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_members_1.csv'"
+12,./r_built_in_datasets/BJsales.rds,./r_built_in_datasets,BJsales.rds,./out,BJsales_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+13,./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/BOD_1.csv'"
+14,./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/cars_1.csv'"
+15,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ChickWeight_1.csv'"
+16,./r_built_in_datasets/chickwts.rds,./r_built_in_datasets,chickwts.rds,./out,chickwts_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/chickwts_1.csv'"
+17,./r_built_in_datasets/CO2.rds,./r_built_in_datasets,CO2.rds,./out,CO2_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+18,./r_built_in_datasets/crimtab.rds,./r_built_in_datasets,crimtab.rds,./out,crimtab_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+19,./r_built_in_datasets/discoveries.rds,./r_built_in_datasets,discoveries.rds,./out,discoveries_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+20,./r_built_in_datasets/DNase.rds,./r_built_in_datasets,DNase.rds,./out,DNase_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/DNase_1.csv'"
+21,./r_built_in_datasets/esoph.rds,./r_built_in_datasets,esoph.rds,./out,esoph_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/esoph_1.csv'"
+22,./r_built_in_datasets/euro.rds,./r_built_in_datasets,euro.rds,./out,euro_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+23,./r_built_in_datasets/eurodist.rds,./r_built_in_datasets,eurodist.rds,./out,eurodist_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+24,./r_built_in_datasets/EuStockMarkets.rds,./r_built_in_datasets,EuStockMarkets.rds,./out,EuStockMarkets_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+25,./r_built_in_datasets/faithful.rds,./r_built_in_datasets,faithful.rds,./out,faithful_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/faithful_1.csv'"
+26,./r_built_in_datasets/Formaldehyde.rds,./r_built_in_datasets,Formaldehyde.rds,./out,Formaldehyde_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Formaldehyde_1.csv'"
+27,./r_built_in_datasets/freeny.rds,./r_built_in_datasets,freeny.rds,./out,freeny_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/freeny_1.csv'"
+28,./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+29,./r_built_in_datasets/gait.rds,./r_built_in_datasets,gait.rds,./out,gait_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+30,./r_built_in_datasets/HairEyeColor.rds,./r_built_in_datasets,HairEyeColor.rds,./out,HairEyeColor_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+31,./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+32,./r_built_in_datasets/Harman74.cor.rds,./r_built_in_datasets,Harman74.cor.rds,./out,Harman74.cor_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+33,./r_built_in_datasets/Indometh.rds,./r_built_in_datasets,Indometh.rds,./out,Indometh_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Indometh_1.csv'"
+34,./r_built_in_datasets/infert.rds,./r_built_in_datasets,infert.rds,./out,infert_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/infert_1.csv'"
+35,./r_built_in_datasets/InsectSprays.rds,./r_built_in_datasets,InsectSprays.rds,./out,InsectSprays_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/InsectSprays_1.csv'"
+36,./r_built_in_datasets/iris.rds,./r_built_in_datasets,iris.rds,./out,iris_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/iris_1.csv'"
+37,./r_built_in_datasets/iris3.rds,./r_built_in_datasets,iris3.rds,./out,iris3_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+38,./r_built_in_datasets/islands.rds,./r_built_in_datasets,islands.rds,./out,islands_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+39,./r_built_in_datasets/JohnsonJohnson.rds,./r_built_in_datasets,JohnsonJohnson.rds,./out,JohnsonJohnson_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+40,./r_built_in_datasets/LakeHuron.rds,./r_built_in_datasets,LakeHuron.rds,./out,LakeHuron_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+41,./r_built_in_datasets/lh.rds,./r_built_in_datasets,lh.rds,./out,lh_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+42,./r_built_in_datasets/LifeCycleSavings.rds,./r_built_in_datasets,LifeCycleSavings.rds,./out,LifeCycleSavings_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/LifeCycleSavings_1.csv'"
+43,./r_built_in_datasets/Loblolly.rds,./r_built_in_datasets,Loblolly.rds,./out,Loblolly_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Loblolly_1.csv'"
+44,./r_built_in_datasets/longley.rds,./r_built_in_datasets,longley.rds,./out,longley_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/longley_1.csv'"
+45,./r_built_in_datasets/lynx.rds,./r_built_in_datasets,lynx.rds,./out,lynx_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+46,./r_built_in_datasets/morley.rds,./r_built_in_datasets,morley.rds,./out,morley_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/morley_1.csv'"
+47,./r_built_in_datasets/mtcars.rds,./r_built_in_datasets,mtcars.rds,./out,mtcars_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/mtcars_1.csv'"
+48,./r_built_in_datasets/nhtemp.rds,./r_built_in_datasets,nhtemp.rds,./out,nhtemp_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+49,./r_built_in_datasets/Nile.rds,./r_built_in_datasets,Nile.rds,./out,Nile_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+50,./r_built_in_datasets/nottem.rds,./r_built_in_datasets,nottem.rds,./out,nottem_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+51,./r_built_in_datasets/npk.rds,./r_built_in_datasets,npk.rds,./out,npk_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/npk_1.csv'"
+52,./r_built_in_datasets/occupationalStatus.rds,./r_built_in_datasets,occupationalStatus.rds,./out,occupationalStatus_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+53,./r_built_in_datasets/Orange.rds,./r_built_in_datasets,Orange.rds,./out,Orange_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Orange_1.csv'"
+54,./r_built_in_datasets/OrchardSprays.rds,./r_built_in_datasets,OrchardSprays.rds,./out,OrchardSprays_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/OrchardSprays_1.csv'"
+55,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/penguins_1.csv'"
+56,./r_built_in_datasets/PlantGrowth.rds,./r_built_in_datasets,PlantGrowth.rds,./out,PlantGrowth_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/PlantGrowth_1.csv'"
+57,./r_built_in_datasets/precip.rds,./r_built_in_datasets,precip.rds,./out,precip_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+58,./r_built_in_datasets/presidents.rds,./r_built_in_datasets,presidents.rds,./out,presidents_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+59,./r_built_in_datasets/pressure.rds,./r_built_in_datasets,pressure.rds,./out,pressure_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/pressure_1.csv'"
+60,./r_built_in_datasets/Puromycin.rds,./r_built_in_datasets,Puromycin.rds,./out,Puromycin_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Puromycin_1.csv'"
+61,./r_built_in_datasets/quakes.rds,./r_built_in_datasets,quakes.rds,./out,quakes_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/quakes_1.csv'"
 62,./r_built_in_datasets/r_built_in_datasets.R,./r_built_in_datasets,r_built_in_datasets.R,./out,r_built_in_datasets.R,FALSE,format d'entrée inconnu
-63,./r_built_in_datasets/randu.rds,./r_built_in_datasets,randu.rds,./out,randu.csv,TRUE,NA
-64,./r_built_in_datasets/rivers.rds,./r_built_in_datasets,rivers.rds,./out,rivers.csv,FALSE,is.data.frame(x) n'est pas TRUE
-65,./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock.csv,TRUE,NA
-66,./r_built_in_datasets/Seatbelts.rds,./r_built_in_datasets,Seatbelts.rds,./out,Seatbelts.csv,FALSE,is.data.frame(x) n'est pas TRUE
-67,./r_built_in_datasets/sentences.rds,./r_built_in_datasets,sentences.rds,./out,sentences.csv,FALSE,is.data.frame(x) n'est pas TRUE
-68,./r_built_in_datasets/sleep.rds,./r_built_in_datasets,sleep.rds,./out,sleep.csv,TRUE,NA
-69,./r_built_in_datasets/stackloss.rds,./r_built_in_datasets,stackloss.rds,./out,stackloss.csv,TRUE,NA
-70,./r_built_in_datasets/starwars.rds,./r_built_in_datasets,starwars.rds,./out,starwars.csv,TRUE,NA
-71,./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms.csv,TRUE,NA
-72,./r_built_in_datasets/sunspot.month.rds,./r_built_in_datasets,sunspot.month.rds,./out,sunspot.month.csv,FALSE,is.data.frame(x) n'est pas TRUE
-73,./r_built_in_datasets/sunspot.year.rds,./r_built_in_datasets,sunspot.year.rds,./out,sunspot.year.csv,FALSE,is.data.frame(x) n'est pas TRUE
-74,./r_built_in_datasets/sunspots.rds,./r_built_in_datasets,sunspots.rds,./out,sunspots.csv,FALSE,is.data.frame(x) n'est pas TRUE
-75,./r_built_in_datasets/swiss.rds,./r_built_in_datasets,swiss.rds,./out,swiss.csv,TRUE,NA
-76,./r_built_in_datasets/Theoph.rds,./r_built_in_datasets,Theoph.rds,./out,Theoph.csv,TRUE,NA
-77,./r_built_in_datasets/Titanic.rds,./r_built_in_datasets,Titanic.rds,./out,Titanic.csv,FALSE,is.data.frame(x) n'est pas TRUE
-78,./r_built_in_datasets/ToothGrowth.rds,./r_built_in_datasets,ToothGrowth.rds,./out,ToothGrowth.csv,TRUE,NA
-79,./r_built_in_datasets/treering.rds,./r_built_in_datasets,treering.rds,./out,treering.csv,FALSE,is.data.frame(x) n'est pas TRUE
-80,./r_built_in_datasets/trees.rds,./r_built_in_datasets,trees.rds,./out,trees.csv,TRUE,NA
-81,./r_built_in_datasets/UCBAdmissions.rds,./r_built_in_datasets,UCBAdmissions.rds,./out,UCBAdmissions.csv,FALSE,is.data.frame(x) n'est pas TRUE
-82,./r_built_in_datasets/UKDriverDeaths.rds,./r_built_in_datasets,UKDriverDeaths.rds,./out,UKDriverDeaths.csv,FALSE,is.data.frame(x) n'est pas TRUE
-83,./r_built_in_datasets/UKgas.rds,./r_built_in_datasets,UKgas.rds,./out,UKgas.csv,FALSE,is.data.frame(x) n'est pas TRUE
-84,./r_built_in_datasets/USAccDeaths.rds,./r_built_in_datasets,USAccDeaths.rds,./out,USAccDeaths.csv,FALSE,is.data.frame(x) n'est pas TRUE
-85,./r_built_in_datasets/USArrests.rds,./r_built_in_datasets,USArrests.rds,./out,USArrests.csv,TRUE,NA
-86,./r_built_in_datasets/UScitiesD.rds,./r_built_in_datasets,UScitiesD.rds,./out,UScitiesD.csv,FALSE,is.data.frame(x) n'est pas TRUE
-87,./r_built_in_datasets/USJudgeRatings.rds,./r_built_in_datasets,USJudgeRatings.rds,./out,USJudgeRatings.csv,TRUE,NA
-88,./r_built_in_datasets/USPersonalExpenditure.rds,./r_built_in_datasets,USPersonalExpenditure.rds,./out,USPersonalExpenditure.csv,FALSE,is.data.frame(x) n'est pas TRUE
-89,./r_built_in_datasets/uspop.rds,./r_built_in_datasets,uspop.rds,./out,uspop.csv,FALSE,is.data.frame(x) n'est pas TRUE
-90,./r_built_in_datasets/VADeaths.rds,./r_built_in_datasets,VADeaths.rds,./out,VADeaths.csv,FALSE,is.data.frame(x) n'est pas TRUE
-91,./r_built_in_datasets/volcano.rds,./r_built_in_datasets,volcano.rds,./out,volcano.csv,FALSE,is.data.frame(x) n'est pas TRUE
-92,./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks.csv,TRUE,NA
-93,./r_built_in_datasets/women.rds,./r_built_in_datasets,women.rds,./out,women.csv,TRUE,NA
-94,./r_built_in_datasets/words.rds,./r_built_in_datasets,words.rds,./out,words.csv,FALSE,is.data.frame(x) n'est pas TRUE
-95,./r_built_in_datasets/WorldPhones.rds,./r_built_in_datasets,WorldPhones.rds,./out,WorldPhones.csv,FALSE,is.data.frame(x) n'est pas TRUE
-96,./r_built_in_datasets/WWWusage.rds,./r_built_in_datasets,WWWusage.rds,./out,WWWusage.csv,FALSE,is.data.frame(x) n'est pas TRUE
+63,./r_built_in_datasets/randu.rds,./r_built_in_datasets,randu.rds,./out,randu_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/randu_1.csv'"
+64,./r_built_in_datasets/rivers.rds,./r_built_in_datasets,rivers.rds,./out,rivers_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+65,./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/rock_1.csv'"
+66,./r_built_in_datasets/Seatbelts.rds,./r_built_in_datasets,Seatbelts.rds,./out,Seatbelts_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+67,./r_built_in_datasets/sentences.rds,./r_built_in_datasets,sentences.rds,./out,sentences_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+68,./r_built_in_datasets/sleep.rds,./r_built_in_datasets,sleep.rds,./out,sleep_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/sleep_1.csv'"
+69,./r_built_in_datasets/stackloss.rds,./r_built_in_datasets,stackloss.rds,./out,stackloss_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/stackloss_1.csv'"
+70,./r_built_in_datasets/starwars.rds,./r_built_in_datasets,starwars.rds,./out,starwars_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/starwars_1.csv'"
+71,./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/storms_1.csv'"
+72,./r_built_in_datasets/sunspot.month.rds,./r_built_in_datasets,sunspot.month.rds,./out,sunspot.month_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+73,./r_built_in_datasets/sunspot.year.rds,./r_built_in_datasets,sunspot.year.rds,./out,sunspot.year_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+74,./r_built_in_datasets/sunspots.rds,./r_built_in_datasets,sunspots.rds,./out,sunspots_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+75,./r_built_in_datasets/swiss.rds,./r_built_in_datasets,swiss.rds,./out,swiss_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/swiss_1.csv'"
+76,./r_built_in_datasets/Theoph.rds,./r_built_in_datasets,Theoph.rds,./out,Theoph_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Theoph_1.csv'"
+77,./r_built_in_datasets/Titanic.rds,./r_built_in_datasets,Titanic.rds,./out,Titanic_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+78,./r_built_in_datasets/ToothGrowth.rds,./r_built_in_datasets,ToothGrowth.rds,./out,ToothGrowth_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ToothGrowth_1.csv'"
+79,./r_built_in_datasets/treering.rds,./r_built_in_datasets,treering.rds,./out,treering_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+80,./r_built_in_datasets/trees.rds,./r_built_in_datasets,trees.rds,./out,trees_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/trees_1.csv'"
+81,./r_built_in_datasets/UCBAdmissions.rds,./r_built_in_datasets,UCBAdmissions.rds,./out,UCBAdmissions_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+82,./r_built_in_datasets/UKDriverDeaths.rds,./r_built_in_datasets,UKDriverDeaths.rds,./out,UKDriverDeaths_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+83,./r_built_in_datasets/UKgas.rds,./r_built_in_datasets,UKgas.rds,./out,UKgas_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+84,./r_built_in_datasets/USAccDeaths.rds,./r_built_in_datasets,USAccDeaths.rds,./out,USAccDeaths_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+85,./r_built_in_datasets/USArrests.rds,./r_built_in_datasets,USArrests.rds,./out,USArrests_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USArrests_1.csv'"
+86,./r_built_in_datasets/UScitiesD.rds,./r_built_in_datasets,UScitiesD.rds,./out,UScitiesD_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+87,./r_built_in_datasets/USJudgeRatings.rds,./r_built_in_datasets,USJudgeRatings.rds,./out,USJudgeRatings_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USJudgeRatings_1.csv'"
+88,./r_built_in_datasets/USPersonalExpenditure.rds,./r_built_in_datasets,USPersonalExpenditure.rds,./out,USPersonalExpenditure_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+89,./r_built_in_datasets/uspop.rds,./r_built_in_datasets,uspop.rds,./out,uspop_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+90,./r_built_in_datasets/VADeaths.rds,./r_built_in_datasets,VADeaths.rds,./out,VADeaths_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+91,./r_built_in_datasets/volcano.rds,./r_built_in_datasets,volcano.rds,./out,volcano_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+92,./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/warpbreaks_1.csv'"
+93,./r_built_in_datasets/women.rds,./r_built_in_datasets,women.rds,./out,women_1.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/women_1.csv'"
+94,./r_built_in_datasets/words.rds,./r_built_in_datasets,words.rds,./out,words_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+95,./r_built_in_datasets/WorldPhones.rds,./r_built_in_datasets,WorldPhones.rds,./out,WorldPhones_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+96,./r_built_in_datasets/WWWusage.rds,./r_built_in_datasets,WWWusage.rds,./out,WWWusage_1.csv,FALSE,is.data.frame(x) n'est pas TRUE
+97,./r_built_in_datasets/ability.cov.rds,./r_built_in_datasets,ability.cov.rds,./out,ability.cov_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+98,./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+99,./r_built_in_datasets/AirPassengers.rds,./r_built_in_datasets,AirPassengers.rds,./out,AirPassengers_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+100,./r_built_in_datasets/airquality.rds,./r_built_in_datasets,airquality.rds,./out,airquality_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/airquality_2.csv'"
+101,./r_built_in_datasets/anscombe.rds,./r_built_in_datasets,anscombe.rds,./out,anscombe_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/anscombe_2.csv'"
+102,./r_built_in_datasets/attenu.rds,./r_built_in_datasets,attenu.rds,./out,attenu_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attenu_2.csv'"
+103,./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attitude_2.csv'"
+104,./r_built_in_datasets/austres.rds,./r_built_in_datasets,austres.rds,./out,austres_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+105,./r_built_in_datasets/band_instruments.rds,./r_built_in_datasets,band_instruments.rds,./out,band_instruments_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments_2.csv'"
+106,./r_built_in_datasets/band_instruments2.rds,./r_built_in_datasets,band_instruments2.rds,./out,band_instruments2_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments2_2.csv'"
+107,./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_members_2.csv'"
+108,./r_built_in_datasets/BJsales.rds,./r_built_in_datasets,BJsales.rds,./out,BJsales_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+109,./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/BOD_2.csv'"
+110,./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/cars_2.csv'"
+111,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ChickWeight_2.csv'"
+112,./r_built_in_datasets/chickwts.rds,./r_built_in_datasets,chickwts.rds,./out,chickwts_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/chickwts_2.csv'"
+113,./r_built_in_datasets/CO2.rds,./r_built_in_datasets,CO2.rds,./out,CO2_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+114,./r_built_in_datasets/crimtab.rds,./r_built_in_datasets,crimtab.rds,./out,crimtab_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+115,./r_built_in_datasets/discoveries.rds,./r_built_in_datasets,discoveries.rds,./out,discoveries_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+116,./r_built_in_datasets/DNase.rds,./r_built_in_datasets,DNase.rds,./out,DNase_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/DNase_2.csv'"
+117,./r_built_in_datasets/esoph.rds,./r_built_in_datasets,esoph.rds,./out,esoph_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/esoph_2.csv'"
+118,./r_built_in_datasets/euro.rds,./r_built_in_datasets,euro.rds,./out,euro_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+119,./r_built_in_datasets/eurodist.rds,./r_built_in_datasets,eurodist.rds,./out,eurodist_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+120,./r_built_in_datasets/EuStockMarkets.rds,./r_built_in_datasets,EuStockMarkets.rds,./out,EuStockMarkets_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+121,./r_built_in_datasets/faithful.rds,./r_built_in_datasets,faithful.rds,./out,faithful_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/faithful_2.csv'"
+122,./r_built_in_datasets/Formaldehyde.rds,./r_built_in_datasets,Formaldehyde.rds,./out,Formaldehyde_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Formaldehyde_2.csv'"
+123,./r_built_in_datasets/freeny.rds,./r_built_in_datasets,freeny.rds,./out,freeny_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/freeny_2.csv'"
+124,./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+125,./r_built_in_datasets/gait.rds,./r_built_in_datasets,gait.rds,./out,gait_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+126,./r_built_in_datasets/HairEyeColor.rds,./r_built_in_datasets,HairEyeColor.rds,./out,HairEyeColor_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+127,./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+128,./r_built_in_datasets/Harman74.cor.rds,./r_built_in_datasets,Harman74.cor.rds,./out,Harman74.cor_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+129,./r_built_in_datasets/Indometh.rds,./r_built_in_datasets,Indometh.rds,./out,Indometh_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Indometh_2.csv'"
+130,./r_built_in_datasets/infert.rds,./r_built_in_datasets,infert.rds,./out,infert_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/infert_2.csv'"
+131,./r_built_in_datasets/InsectSprays.rds,./r_built_in_datasets,InsectSprays.rds,./out,InsectSprays_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/InsectSprays_2.csv'"
+132,./r_built_in_datasets/iris.rds,./r_built_in_datasets,iris.rds,./out,iris_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/iris_2.csv'"
+133,./r_built_in_datasets/iris3.rds,./r_built_in_datasets,iris3.rds,./out,iris3_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+134,./r_built_in_datasets/islands.rds,./r_built_in_datasets,islands.rds,./out,islands_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+135,./r_built_in_datasets/JohnsonJohnson.rds,./r_built_in_datasets,JohnsonJohnson.rds,./out,JohnsonJohnson_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+136,./r_built_in_datasets/LakeHuron.rds,./r_built_in_datasets,LakeHuron.rds,./out,LakeHuron_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+137,./r_built_in_datasets/lh.rds,./r_built_in_datasets,lh.rds,./out,lh_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+138,./r_built_in_datasets/LifeCycleSavings.rds,./r_built_in_datasets,LifeCycleSavings.rds,./out,LifeCycleSavings_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/LifeCycleSavings_2.csv'"
+139,./r_built_in_datasets/Loblolly.rds,./r_built_in_datasets,Loblolly.rds,./out,Loblolly_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Loblolly_2.csv'"
+140,./r_built_in_datasets/longley.rds,./r_built_in_datasets,longley.rds,./out,longley_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/longley_2.csv'"
+141,./r_built_in_datasets/lynx.rds,./r_built_in_datasets,lynx.rds,./out,lynx_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+142,./r_built_in_datasets/morley.rds,./r_built_in_datasets,morley.rds,./out,morley_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/morley_2.csv'"
+143,./r_built_in_datasets/mtcars.rds,./r_built_in_datasets,mtcars.rds,./out,mtcars_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/mtcars_2.csv'"
+144,./r_built_in_datasets/nhtemp.rds,./r_built_in_datasets,nhtemp.rds,./out,nhtemp_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+145,./r_built_in_datasets/Nile.rds,./r_built_in_datasets,Nile.rds,./out,Nile_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+146,./r_built_in_datasets/nottem.rds,./r_built_in_datasets,nottem.rds,./out,nottem_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+147,./r_built_in_datasets/npk.rds,./r_built_in_datasets,npk.rds,./out,npk_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/npk_2.csv'"
+148,./r_built_in_datasets/occupationalStatus.rds,./r_built_in_datasets,occupationalStatus.rds,./out,occupationalStatus_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+149,./r_built_in_datasets/Orange.rds,./r_built_in_datasets,Orange.rds,./out,Orange_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Orange_2.csv'"
+150,./r_built_in_datasets/OrchardSprays.rds,./r_built_in_datasets,OrchardSprays.rds,./out,OrchardSprays_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/OrchardSprays_2.csv'"
+151,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/penguins_2.csv'"
+152,./r_built_in_datasets/PlantGrowth.rds,./r_built_in_datasets,PlantGrowth.rds,./out,PlantGrowth_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/PlantGrowth_2.csv'"
+153,./r_built_in_datasets/precip.rds,./r_built_in_datasets,precip.rds,./out,precip_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+154,./r_built_in_datasets/presidents.rds,./r_built_in_datasets,presidents.rds,./out,presidents_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+155,./r_built_in_datasets/pressure.rds,./r_built_in_datasets,pressure.rds,./out,pressure_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/pressure_2.csv'"
+156,./r_built_in_datasets/Puromycin.rds,./r_built_in_datasets,Puromycin.rds,./out,Puromycin_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Puromycin_2.csv'"
+157,./r_built_in_datasets/quakes.rds,./r_built_in_datasets,quakes.rds,./out,quakes_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/quakes_2.csv'"
+158,./r_built_in_datasets/r_built_in_datasets.R,./r_built_in_datasets,r_built_in_datasets.R,./out,r_built_in_datasets.R,FALSE,format d'entrée inconnu
+159,./r_built_in_datasets/randu.rds,./r_built_in_datasets,randu.rds,./out,randu_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/randu_2.csv'"
+160,./r_built_in_datasets/rivers.rds,./r_built_in_datasets,rivers.rds,./out,rivers_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+161,./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/rock_2.csv'"
+162,./r_built_in_datasets/Seatbelts.rds,./r_built_in_datasets,Seatbelts.rds,./out,Seatbelts_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+163,./r_built_in_datasets/sentences.rds,./r_built_in_datasets,sentences.rds,./out,sentences_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+164,./r_built_in_datasets/sleep.rds,./r_built_in_datasets,sleep.rds,./out,sleep_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/sleep_2.csv'"
+165,./r_built_in_datasets/stackloss.rds,./r_built_in_datasets,stackloss.rds,./out,stackloss_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/stackloss_2.csv'"
+166,./r_built_in_datasets/starwars.rds,./r_built_in_datasets,starwars.rds,./out,starwars_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/starwars_2.csv'"
+167,./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/storms_2.csv'"
+168,./r_built_in_datasets/sunspot.month.rds,./r_built_in_datasets,sunspot.month.rds,./out,sunspot.month_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+169,./r_built_in_datasets/sunspot.year.rds,./r_built_in_datasets,sunspot.year.rds,./out,sunspot.year_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+170,./r_built_in_datasets/sunspots.rds,./r_built_in_datasets,sunspots.rds,./out,sunspots_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+171,./r_built_in_datasets/swiss.rds,./r_built_in_datasets,swiss.rds,./out,swiss_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/swiss_2.csv'"
+172,./r_built_in_datasets/Theoph.rds,./r_built_in_datasets,Theoph.rds,./out,Theoph_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Theoph_2.csv'"
+173,./r_built_in_datasets/Titanic.rds,./r_built_in_datasets,Titanic.rds,./out,Titanic_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+174,./r_built_in_datasets/ToothGrowth.rds,./r_built_in_datasets,ToothGrowth.rds,./out,ToothGrowth_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ToothGrowth_2.csv'"
+175,./r_built_in_datasets/treering.rds,./r_built_in_datasets,treering.rds,./out,treering_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+176,./r_built_in_datasets/trees.rds,./r_built_in_datasets,trees.rds,./out,trees_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/trees_2.csv'"
+177,./r_built_in_datasets/UCBAdmissions.rds,./r_built_in_datasets,UCBAdmissions.rds,./out,UCBAdmissions_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+178,./r_built_in_datasets/UKDriverDeaths.rds,./r_built_in_datasets,UKDriverDeaths.rds,./out,UKDriverDeaths_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+179,./r_built_in_datasets/UKgas.rds,./r_built_in_datasets,UKgas.rds,./out,UKgas_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+180,./r_built_in_datasets/USAccDeaths.rds,./r_built_in_datasets,USAccDeaths.rds,./out,USAccDeaths_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+181,./r_built_in_datasets/USArrests.rds,./r_built_in_datasets,USArrests.rds,./out,USArrests_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USArrests_2.csv'"
+182,./r_built_in_datasets/UScitiesD.rds,./r_built_in_datasets,UScitiesD.rds,./out,UScitiesD_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+183,./r_built_in_datasets/USJudgeRatings.rds,./r_built_in_datasets,USJudgeRatings.rds,./out,USJudgeRatings_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USJudgeRatings_2.csv'"
+184,./r_built_in_datasets/USPersonalExpenditure.rds,./r_built_in_datasets,USPersonalExpenditure.rds,./out,USPersonalExpenditure_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+185,./r_built_in_datasets/uspop.rds,./r_built_in_datasets,uspop.rds,./out,uspop_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+186,./r_built_in_datasets/VADeaths.rds,./r_built_in_datasets,VADeaths.rds,./out,VADeaths_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+187,./r_built_in_datasets/volcano.rds,./r_built_in_datasets,volcano.rds,./out,volcano_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+188,./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/warpbreaks_2.csv'"
+189,./r_built_in_datasets/women.rds,./r_built_in_datasets,women.rds,./out,women_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/women_2.csv'"
+190,./r_built_in_datasets/words.rds,./r_built_in_datasets,words.rds,./out,words_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+191,./r_built_in_datasets/WorldPhones.rds,./r_built_in_datasets,WorldPhones.rds,./out,WorldPhones_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+192,./r_built_in_datasets/WWWusage.rds,./r_built_in_datasets,WWWusage.rds,./out,WWWusage_2.csv,FALSE,is.data.frame(x) n'est pas TRUE
+193,./r_built_in_datasets/ability.cov.rds,./r_built_in_datasets,ability.cov.rds,./out,ability.cov_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+194,./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+195,./r_built_in_datasets/AirPassengers.rds,./r_built_in_datasets,AirPassengers.rds,./out,AirPassengers_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+196,./r_built_in_datasets/airquality.rds,./r_built_in_datasets,airquality.rds,./out,airquality_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/airquality_3.csv'"
+197,./r_built_in_datasets/anscombe.rds,./r_built_in_datasets,anscombe.rds,./out,anscombe_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/anscombe_3.csv'"
+198,./r_built_in_datasets/attenu.rds,./r_built_in_datasets,attenu.rds,./out,attenu_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attenu_3.csv'"
+199,./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attitude_3.csv'"
+200,./r_built_in_datasets/austres.rds,./r_built_in_datasets,austres.rds,./out,austres_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+201,./r_built_in_datasets/band_instruments.rds,./r_built_in_datasets,band_instruments.rds,./out,band_instruments_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments_3.csv'"
+202,./r_built_in_datasets/band_instruments2.rds,./r_built_in_datasets,band_instruments2.rds,./out,band_instruments2_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments2_3.csv'"
+203,./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_members_3.csv'"
+204,./r_built_in_datasets/BJsales.rds,./r_built_in_datasets,BJsales.rds,./out,BJsales_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+205,./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/BOD_3.csv'"
+206,./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/cars_3.csv'"
+207,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ChickWeight_3.csv'"
+208,./r_built_in_datasets/chickwts.rds,./r_built_in_datasets,chickwts.rds,./out,chickwts_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/chickwts_3.csv'"
+209,./r_built_in_datasets/CO2.rds,./r_built_in_datasets,CO2.rds,./out,CO2_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+210,./r_built_in_datasets/crimtab.rds,./r_built_in_datasets,crimtab.rds,./out,crimtab_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+211,./r_built_in_datasets/discoveries.rds,./r_built_in_datasets,discoveries.rds,./out,discoveries_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+212,./r_built_in_datasets/DNase.rds,./r_built_in_datasets,DNase.rds,./out,DNase_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/DNase_3.csv'"
+213,./r_built_in_datasets/esoph.rds,./r_built_in_datasets,esoph.rds,./out,esoph_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/esoph_3.csv'"
+214,./r_built_in_datasets/euro.rds,./r_built_in_datasets,euro.rds,./out,euro_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+215,./r_built_in_datasets/eurodist.rds,./r_built_in_datasets,eurodist.rds,./out,eurodist_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+216,./r_built_in_datasets/EuStockMarkets.rds,./r_built_in_datasets,EuStockMarkets.rds,./out,EuStockMarkets_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+217,./r_built_in_datasets/faithful.rds,./r_built_in_datasets,faithful.rds,./out,faithful_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/faithful_3.csv'"
+218,./r_built_in_datasets/Formaldehyde.rds,./r_built_in_datasets,Formaldehyde.rds,./out,Formaldehyde_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Formaldehyde_3.csv'"
+219,./r_built_in_datasets/freeny.rds,./r_built_in_datasets,freeny.rds,./out,freeny_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/freeny_3.csv'"
+220,./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+221,./r_built_in_datasets/gait.rds,./r_built_in_datasets,gait.rds,./out,gait_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+222,./r_built_in_datasets/HairEyeColor.rds,./r_built_in_datasets,HairEyeColor.rds,./out,HairEyeColor_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+223,./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+224,./r_built_in_datasets/Harman74.cor.rds,./r_built_in_datasets,Harman74.cor.rds,./out,Harman74.cor_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+225,./r_built_in_datasets/Indometh.rds,./r_built_in_datasets,Indometh.rds,./out,Indometh_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Indometh_3.csv'"
+226,./r_built_in_datasets/infert.rds,./r_built_in_datasets,infert.rds,./out,infert_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/infert_3.csv'"
+227,./r_built_in_datasets/InsectSprays.rds,./r_built_in_datasets,InsectSprays.rds,./out,InsectSprays_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/InsectSprays_3.csv'"
+228,./r_built_in_datasets/iris.rds,./r_built_in_datasets,iris.rds,./out,iris_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/iris_3.csv'"
+229,./r_built_in_datasets/iris3.rds,./r_built_in_datasets,iris3.rds,./out,iris3_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+230,./r_built_in_datasets/islands.rds,./r_built_in_datasets,islands.rds,./out,islands_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+231,./r_built_in_datasets/JohnsonJohnson.rds,./r_built_in_datasets,JohnsonJohnson.rds,./out,JohnsonJohnson_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+232,./r_built_in_datasets/LakeHuron.rds,./r_built_in_datasets,LakeHuron.rds,./out,LakeHuron_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+233,./r_built_in_datasets/lh.rds,./r_built_in_datasets,lh.rds,./out,lh_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+234,./r_built_in_datasets/LifeCycleSavings.rds,./r_built_in_datasets,LifeCycleSavings.rds,./out,LifeCycleSavings_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/LifeCycleSavings_3.csv'"
+235,./r_built_in_datasets/Loblolly.rds,./r_built_in_datasets,Loblolly.rds,./out,Loblolly_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Loblolly_3.csv'"
+236,./r_built_in_datasets/longley.rds,./r_built_in_datasets,longley.rds,./out,longley_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/longley_3.csv'"
+237,./r_built_in_datasets/lynx.rds,./r_built_in_datasets,lynx.rds,./out,lynx_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+238,./r_built_in_datasets/morley.rds,./r_built_in_datasets,morley.rds,./out,morley_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/morley_3.csv'"
+239,./r_built_in_datasets/mtcars.rds,./r_built_in_datasets,mtcars.rds,./out,mtcars_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/mtcars_3.csv'"
+240,./r_built_in_datasets/nhtemp.rds,./r_built_in_datasets,nhtemp.rds,./out,nhtemp_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+241,./r_built_in_datasets/Nile.rds,./r_built_in_datasets,Nile.rds,./out,Nile_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+242,./r_built_in_datasets/nottem.rds,./r_built_in_datasets,nottem.rds,./out,nottem_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+243,./r_built_in_datasets/npk.rds,./r_built_in_datasets,npk.rds,./out,npk_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/npk_3.csv'"
+244,./r_built_in_datasets/occupationalStatus.rds,./r_built_in_datasets,occupationalStatus.rds,./out,occupationalStatus_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+245,./r_built_in_datasets/Orange.rds,./r_built_in_datasets,Orange.rds,./out,Orange_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Orange_3.csv'"
+246,./r_built_in_datasets/OrchardSprays.rds,./r_built_in_datasets,OrchardSprays.rds,./out,OrchardSprays_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/OrchardSprays_3.csv'"
+247,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/penguins_3.csv'"
+248,./r_built_in_datasets/PlantGrowth.rds,./r_built_in_datasets,PlantGrowth.rds,./out,PlantGrowth_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/PlantGrowth_3.csv'"
+249,./r_built_in_datasets/precip.rds,./r_built_in_datasets,precip.rds,./out,precip_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+250,./r_built_in_datasets/presidents.rds,./r_built_in_datasets,presidents.rds,./out,presidents_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+251,./r_built_in_datasets/pressure.rds,./r_built_in_datasets,pressure.rds,./out,pressure_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/pressure_3.csv'"
+252,./r_built_in_datasets/Puromycin.rds,./r_built_in_datasets,Puromycin.rds,./out,Puromycin_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Puromycin_3.csv'"
+253,./r_built_in_datasets/quakes.rds,./r_built_in_datasets,quakes.rds,./out,quakes_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/quakes_3.csv'"
+254,./r_built_in_datasets/r_built_in_datasets.R,./r_built_in_datasets,r_built_in_datasets.R,./out,r_built_in_datasets.R,FALSE,format d'entrée inconnu
+255,./r_built_in_datasets/randu.rds,./r_built_in_datasets,randu.rds,./out,randu_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/randu_3.csv'"
+256,./r_built_in_datasets/rivers.rds,./r_built_in_datasets,rivers.rds,./out,rivers_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+257,./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/rock_3.csv'"
+258,./r_built_in_datasets/Seatbelts.rds,./r_built_in_datasets,Seatbelts.rds,./out,Seatbelts_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+259,./r_built_in_datasets/sentences.rds,./r_built_in_datasets,sentences.rds,./out,sentences_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+260,./r_built_in_datasets/sleep.rds,./r_built_in_datasets,sleep.rds,./out,sleep_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/sleep_3.csv'"
+261,./r_built_in_datasets/stackloss.rds,./r_built_in_datasets,stackloss.rds,./out,stackloss_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/stackloss_3.csv'"
+262,./r_built_in_datasets/starwars.rds,./r_built_in_datasets,starwars.rds,./out,starwars_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/starwars_3.csv'"
+263,./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/storms_3.csv'"
+264,./r_built_in_datasets/sunspot.month.rds,./r_built_in_datasets,sunspot.month.rds,./out,sunspot.month_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+265,./r_built_in_datasets/sunspot.year.rds,./r_built_in_datasets,sunspot.year.rds,./out,sunspot.year_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+266,./r_built_in_datasets/sunspots.rds,./r_built_in_datasets,sunspots.rds,./out,sunspots_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+267,./r_built_in_datasets/swiss.rds,./r_built_in_datasets,swiss.rds,./out,swiss_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/swiss_3.csv'"
+268,./r_built_in_datasets/Theoph.rds,./r_built_in_datasets,Theoph.rds,./out,Theoph_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Theoph_3.csv'"
+269,./r_built_in_datasets/Titanic.rds,./r_built_in_datasets,Titanic.rds,./out,Titanic_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+270,./r_built_in_datasets/ToothGrowth.rds,./r_built_in_datasets,ToothGrowth.rds,./out,ToothGrowth_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ToothGrowth_3.csv'"
+271,./r_built_in_datasets/treering.rds,./r_built_in_datasets,treering.rds,./out,treering_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+272,./r_built_in_datasets/trees.rds,./r_built_in_datasets,trees.rds,./out,trees_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/trees_3.csv'"
+273,./r_built_in_datasets/UCBAdmissions.rds,./r_built_in_datasets,UCBAdmissions.rds,./out,UCBAdmissions_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+274,./r_built_in_datasets/UKDriverDeaths.rds,./r_built_in_datasets,UKDriverDeaths.rds,./out,UKDriverDeaths_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+275,./r_built_in_datasets/UKgas.rds,./r_built_in_datasets,UKgas.rds,./out,UKgas_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+276,./r_built_in_datasets/USAccDeaths.rds,./r_built_in_datasets,USAccDeaths.rds,./out,USAccDeaths_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+277,./r_built_in_datasets/USArrests.rds,./r_built_in_datasets,USArrests.rds,./out,USArrests_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USArrests_3.csv'"
+278,./r_built_in_datasets/UScitiesD.rds,./r_built_in_datasets,UScitiesD.rds,./out,UScitiesD_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+279,./r_built_in_datasets/USJudgeRatings.rds,./r_built_in_datasets,USJudgeRatings.rds,./out,USJudgeRatings_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USJudgeRatings_3.csv'"
+280,./r_built_in_datasets/USPersonalExpenditure.rds,./r_built_in_datasets,USPersonalExpenditure.rds,./out,USPersonalExpenditure_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+281,./r_built_in_datasets/uspop.rds,./r_built_in_datasets,uspop.rds,./out,uspop_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+282,./r_built_in_datasets/VADeaths.rds,./r_built_in_datasets,VADeaths.rds,./out,VADeaths_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+283,./r_built_in_datasets/volcano.rds,./r_built_in_datasets,volcano.rds,./out,volcano_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+284,./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/warpbreaks_3.csv'"
+285,./r_built_in_datasets/women.rds,./r_built_in_datasets,women.rds,./out,women_3.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/women_3.csv'"
+286,./r_built_in_datasets/words.rds,./r_built_in_datasets,words.rds,./out,words_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+287,./r_built_in_datasets/WorldPhones.rds,./r_built_in_datasets,WorldPhones.rds,./out,WorldPhones_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+288,./r_built_in_datasets/WWWusage.rds,./r_built_in_datasets,WWWusage.rds,./out,WWWusage_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
+289,./r_built_in_datasets/ability.cov.rds,./r_built_in_datasets,ability.cov.rds,./out,ability.cov_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+290,./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+291,./r_built_in_datasets/AirPassengers.rds,./r_built_in_datasets,AirPassengers.rds,./out,AirPassengers_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+292,./r_built_in_datasets/airquality.rds,./r_built_in_datasets,airquality.rds,./out,airquality_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/airquality_4.csv'"
+293,./r_built_in_datasets/anscombe.rds,./r_built_in_datasets,anscombe.rds,./out,anscombe_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/anscombe_4.csv'"
+294,./r_built_in_datasets/attenu.rds,./r_built_in_datasets,attenu.rds,./out,attenu_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attenu_4.csv'"
+295,./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attitude_4.csv'"
+296,./r_built_in_datasets/austres.rds,./r_built_in_datasets,austres.rds,./out,austres_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+297,./r_built_in_datasets/band_instruments.rds,./r_built_in_datasets,band_instruments.rds,./out,band_instruments_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments_4.csv'"
+298,./r_built_in_datasets/band_instruments2.rds,./r_built_in_datasets,band_instruments2.rds,./out,band_instruments2_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments2_4.csv'"
+299,./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_members_4.csv'"
+300,./r_built_in_datasets/BJsales.rds,./r_built_in_datasets,BJsales.rds,./out,BJsales_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+301,./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/BOD_4.csv'"
+302,./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/cars_4.csv'"
+303,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ChickWeight_4.csv'"
+304,./r_built_in_datasets/chickwts.rds,./r_built_in_datasets,chickwts.rds,./out,chickwts_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/chickwts_4.csv'"
+305,./r_built_in_datasets/CO2.rds,./r_built_in_datasets,CO2.rds,./out,CO2_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+306,./r_built_in_datasets/crimtab.rds,./r_built_in_datasets,crimtab.rds,./out,crimtab_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+307,./r_built_in_datasets/discoveries.rds,./r_built_in_datasets,discoveries.rds,./out,discoveries_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+308,./r_built_in_datasets/DNase.rds,./r_built_in_datasets,DNase.rds,./out,DNase_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/DNase_4.csv'"
+309,./r_built_in_datasets/esoph.rds,./r_built_in_datasets,esoph.rds,./out,esoph_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/esoph_4.csv'"
+310,./r_built_in_datasets/euro.rds,./r_built_in_datasets,euro.rds,./out,euro_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+311,./r_built_in_datasets/eurodist.rds,./r_built_in_datasets,eurodist.rds,./out,eurodist_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+312,./r_built_in_datasets/EuStockMarkets.rds,./r_built_in_datasets,EuStockMarkets.rds,./out,EuStockMarkets_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+313,./r_built_in_datasets/faithful.rds,./r_built_in_datasets,faithful.rds,./out,faithful_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/faithful_4.csv'"
+314,./r_built_in_datasets/Formaldehyde.rds,./r_built_in_datasets,Formaldehyde.rds,./out,Formaldehyde_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Formaldehyde_4.csv'"
+315,./r_built_in_datasets/freeny.rds,./r_built_in_datasets,freeny.rds,./out,freeny_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/freeny_4.csv'"
+316,./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+317,./r_built_in_datasets/gait.rds,./r_built_in_datasets,gait.rds,./out,gait_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+318,./r_built_in_datasets/HairEyeColor.rds,./r_built_in_datasets,HairEyeColor.rds,./out,HairEyeColor_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+319,./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+320,./r_built_in_datasets/Harman74.cor.rds,./r_built_in_datasets,Harman74.cor.rds,./out,Harman74.cor_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+321,./r_built_in_datasets/Indometh.rds,./r_built_in_datasets,Indometh.rds,./out,Indometh_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Indometh_4.csv'"
+322,./r_built_in_datasets/infert.rds,./r_built_in_datasets,infert.rds,./out,infert_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/infert_4.csv'"
+323,./r_built_in_datasets/InsectSprays.rds,./r_built_in_datasets,InsectSprays.rds,./out,InsectSprays_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/InsectSprays_4.csv'"
+324,./r_built_in_datasets/iris.rds,./r_built_in_datasets,iris.rds,./out,iris_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/iris_4.csv'"
+325,./r_built_in_datasets/iris3.rds,./r_built_in_datasets,iris3.rds,./out,iris3_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+326,./r_built_in_datasets/islands.rds,./r_built_in_datasets,islands.rds,./out,islands_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+327,./r_built_in_datasets/JohnsonJohnson.rds,./r_built_in_datasets,JohnsonJohnson.rds,./out,JohnsonJohnson_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+328,./r_built_in_datasets/LakeHuron.rds,./r_built_in_datasets,LakeHuron.rds,./out,LakeHuron_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+329,./r_built_in_datasets/lh.rds,./r_built_in_datasets,lh.rds,./out,lh_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+330,./r_built_in_datasets/LifeCycleSavings.rds,./r_built_in_datasets,LifeCycleSavings.rds,./out,LifeCycleSavings_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/LifeCycleSavings_4.csv'"
+331,./r_built_in_datasets/Loblolly.rds,./r_built_in_datasets,Loblolly.rds,./out,Loblolly_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Loblolly_4.csv'"
+332,./r_built_in_datasets/longley.rds,./r_built_in_datasets,longley.rds,./out,longley_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/longley_4.csv'"
+333,./r_built_in_datasets/lynx.rds,./r_built_in_datasets,lynx.rds,./out,lynx_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+334,./r_built_in_datasets/morley.rds,./r_built_in_datasets,morley.rds,./out,morley_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/morley_4.csv'"
+335,./r_built_in_datasets/mtcars.rds,./r_built_in_datasets,mtcars.rds,./out,mtcars_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/mtcars_4.csv'"
+336,./r_built_in_datasets/nhtemp.rds,./r_built_in_datasets,nhtemp.rds,./out,nhtemp_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+337,./r_built_in_datasets/Nile.rds,./r_built_in_datasets,Nile.rds,./out,Nile_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+338,./r_built_in_datasets/nottem.rds,./r_built_in_datasets,nottem.rds,./out,nottem_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+339,./r_built_in_datasets/npk.rds,./r_built_in_datasets,npk.rds,./out,npk_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/npk_4.csv'"
+340,./r_built_in_datasets/occupationalStatus.rds,./r_built_in_datasets,occupationalStatus.rds,./out,occupationalStatus_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+341,./r_built_in_datasets/Orange.rds,./r_built_in_datasets,Orange.rds,./out,Orange_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Orange_4.csv'"
+342,./r_built_in_datasets/OrchardSprays.rds,./r_built_in_datasets,OrchardSprays.rds,./out,OrchardSprays_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/OrchardSprays_4.csv'"
+343,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/penguins_4.csv'"
+344,./r_built_in_datasets/PlantGrowth.rds,./r_built_in_datasets,PlantGrowth.rds,./out,PlantGrowth_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/PlantGrowth_4.csv'"
+345,./r_built_in_datasets/precip.rds,./r_built_in_datasets,precip.rds,./out,precip_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+346,./r_built_in_datasets/presidents.rds,./r_built_in_datasets,presidents.rds,./out,presidents_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+347,./r_built_in_datasets/pressure.rds,./r_built_in_datasets,pressure.rds,./out,pressure_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/pressure_4.csv'"
+348,./r_built_in_datasets/Puromycin.rds,./r_built_in_datasets,Puromycin.rds,./out,Puromycin_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Puromycin_4.csv'"
+349,./r_built_in_datasets/quakes.rds,./r_built_in_datasets,quakes.rds,./out,quakes_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/quakes_4.csv'"
+350,./r_built_in_datasets/r_built_in_datasets.R,./r_built_in_datasets,r_built_in_datasets.R,./out,r_built_in_datasets.R,FALSE,format d'entrée inconnu
+351,./r_built_in_datasets/randu.rds,./r_built_in_datasets,randu.rds,./out,randu_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/randu_4.csv'"
+352,./r_built_in_datasets/rivers.rds,./r_built_in_datasets,rivers.rds,./out,rivers_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+353,./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/rock_4.csv'"
+354,./r_built_in_datasets/Seatbelts.rds,./r_built_in_datasets,Seatbelts.rds,./out,Seatbelts_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+355,./r_built_in_datasets/sentences.rds,./r_built_in_datasets,sentences.rds,./out,sentences_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+356,./r_built_in_datasets/sleep.rds,./r_built_in_datasets,sleep.rds,./out,sleep_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/sleep_4.csv'"
+357,./r_built_in_datasets/stackloss.rds,./r_built_in_datasets,stackloss.rds,./out,stackloss_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/stackloss_4.csv'"
+358,./r_built_in_datasets/starwars.rds,./r_built_in_datasets,starwars.rds,./out,starwars_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/starwars_4.csv'"
+359,./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/storms_4.csv'"
+360,./r_built_in_datasets/sunspot.month.rds,./r_built_in_datasets,sunspot.month.rds,./out,sunspot.month_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+361,./r_built_in_datasets/sunspot.year.rds,./r_built_in_datasets,sunspot.year.rds,./out,sunspot.year_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+362,./r_built_in_datasets/sunspots.rds,./r_built_in_datasets,sunspots.rds,./out,sunspots_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+363,./r_built_in_datasets/swiss.rds,./r_built_in_datasets,swiss.rds,./out,swiss_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/swiss_4.csv'"
+364,./r_built_in_datasets/Theoph.rds,./r_built_in_datasets,Theoph.rds,./out,Theoph_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Theoph_4.csv'"
+365,./r_built_in_datasets/Titanic.rds,./r_built_in_datasets,Titanic.rds,./out,Titanic_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+366,./r_built_in_datasets/ToothGrowth.rds,./r_built_in_datasets,ToothGrowth.rds,./out,ToothGrowth_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ToothGrowth_4.csv'"
+367,./r_built_in_datasets/treering.rds,./r_built_in_datasets,treering.rds,./out,treering_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+368,./r_built_in_datasets/trees.rds,./r_built_in_datasets,trees.rds,./out,trees_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/trees_4.csv'"
+369,./r_built_in_datasets/UCBAdmissions.rds,./r_built_in_datasets,UCBAdmissions.rds,./out,UCBAdmissions_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+370,./r_built_in_datasets/UKDriverDeaths.rds,./r_built_in_datasets,UKDriverDeaths.rds,./out,UKDriverDeaths_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+371,./r_built_in_datasets/UKgas.rds,./r_built_in_datasets,UKgas.rds,./out,UKgas_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+372,./r_built_in_datasets/USAccDeaths.rds,./r_built_in_datasets,USAccDeaths.rds,./out,USAccDeaths_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+373,./r_built_in_datasets/USArrests.rds,./r_built_in_datasets,USArrests.rds,./out,USArrests_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USArrests_4.csv'"
+374,./r_built_in_datasets/UScitiesD.rds,./r_built_in_datasets,UScitiesD.rds,./out,UScitiesD_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+375,./r_built_in_datasets/USJudgeRatings.rds,./r_built_in_datasets,USJudgeRatings.rds,./out,USJudgeRatings_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USJudgeRatings_4.csv'"
+376,./r_built_in_datasets/USPersonalExpenditure.rds,./r_built_in_datasets,USPersonalExpenditure.rds,./out,USPersonalExpenditure_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+377,./r_built_in_datasets/uspop.rds,./r_built_in_datasets,uspop.rds,./out,uspop_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+378,./r_built_in_datasets/VADeaths.rds,./r_built_in_datasets,VADeaths.rds,./out,VADeaths_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+379,./r_built_in_datasets/volcano.rds,./r_built_in_datasets,volcano.rds,./out,volcano_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+380,./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/warpbreaks_4.csv'"
+381,./r_built_in_datasets/women.rds,./r_built_in_datasets,women.rds,./out,women_4.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/women_4.csv'"
+382,./r_built_in_datasets/words.rds,./r_built_in_datasets,words.rds,./out,words_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+383,./r_built_in_datasets/WorldPhones.rds,./r_built_in_datasets,WorldPhones.rds,./out,WorldPhones_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+384,./r_built_in_datasets/WWWusage.rds,./r_built_in_datasets,WWWusage.rds,./out,WWWusage_4.csv,FALSE,is.data.frame(x) n'est pas TRUE
+385,./r_built_in_datasets/ability.cov.rds,./r_built_in_datasets,ability.cov.rds,./out,ability.cov_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+386,./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+387,./r_built_in_datasets/AirPassengers.rds,./r_built_in_datasets,AirPassengers.rds,./out,AirPassengers_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+388,./r_built_in_datasets/airquality.rds,./r_built_in_datasets,airquality.rds,./out,airquality_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/airquality_5.csv'"
+389,./r_built_in_datasets/anscombe.rds,./r_built_in_datasets,anscombe.rds,./out,anscombe_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/anscombe_5.csv'"
+390,./r_built_in_datasets/attenu.rds,./r_built_in_datasets,attenu.rds,./out,attenu_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attenu_5.csv'"
+391,./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/attitude_5.csv'"
+392,./r_built_in_datasets/austres.rds,./r_built_in_datasets,austres.rds,./out,austres_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+393,./r_built_in_datasets/band_instruments.rds,./r_built_in_datasets,band_instruments.rds,./out,band_instruments_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments_5.csv'"
+394,./r_built_in_datasets/band_instruments2.rds,./r_built_in_datasets,band_instruments2.rds,./out,band_instruments2_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_instruments2_5.csv'"
+395,./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/band_members_5.csv'"
+396,./r_built_in_datasets/BJsales.rds,./r_built_in_datasets,BJsales.rds,./out,BJsales_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+397,./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/BOD_5.csv'"
+398,./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/cars_5.csv'"
+399,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ChickWeight_5.csv'"
+400,./r_built_in_datasets/chickwts.rds,./r_built_in_datasets,chickwts.rds,./out,chickwts_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/chickwts_5.csv'"
+401,./r_built_in_datasets/CO2.rds,./r_built_in_datasets,CO2.rds,./out,CO2_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+402,./r_built_in_datasets/crimtab.rds,./r_built_in_datasets,crimtab.rds,./out,crimtab_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+403,./r_built_in_datasets/discoveries.rds,./r_built_in_datasets,discoveries.rds,./out,discoveries_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+404,./r_built_in_datasets/DNase.rds,./r_built_in_datasets,DNase.rds,./out,DNase_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/DNase_5.csv'"
+405,./r_built_in_datasets/esoph.rds,./r_built_in_datasets,esoph.rds,./out,esoph_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/esoph_5.csv'"
+406,./r_built_in_datasets/euro.rds,./r_built_in_datasets,euro.rds,./out,euro_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+407,./r_built_in_datasets/eurodist.rds,./r_built_in_datasets,eurodist.rds,./out,eurodist_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+408,./r_built_in_datasets/EuStockMarkets.rds,./r_built_in_datasets,EuStockMarkets.rds,./out,EuStockMarkets_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+409,./r_built_in_datasets/faithful.rds,./r_built_in_datasets,faithful.rds,./out,faithful_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/faithful_5.csv'"
+410,./r_built_in_datasets/Formaldehyde.rds,./r_built_in_datasets,Formaldehyde.rds,./out,Formaldehyde_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Formaldehyde_5.csv'"
+411,./r_built_in_datasets/freeny.rds,./r_built_in_datasets,freeny.rds,./out,freeny_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/freeny_5.csv'"
+412,./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+413,./r_built_in_datasets/gait.rds,./r_built_in_datasets,gait.rds,./out,gait_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+414,./r_built_in_datasets/HairEyeColor.rds,./r_built_in_datasets,HairEyeColor.rds,./out,HairEyeColor_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+415,./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+416,./r_built_in_datasets/Harman74.cor.rds,./r_built_in_datasets,Harman74.cor.rds,./out,Harman74.cor_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+417,./r_built_in_datasets/Indometh.rds,./r_built_in_datasets,Indometh.rds,./out,Indometh_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Indometh_5.csv'"
+418,./r_built_in_datasets/infert.rds,./r_built_in_datasets,infert.rds,./out,infert_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/infert_5.csv'"
+419,./r_built_in_datasets/InsectSprays.rds,./r_built_in_datasets,InsectSprays.rds,./out,InsectSprays_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/InsectSprays_5.csv'"
+420,./r_built_in_datasets/iris.rds,./r_built_in_datasets,iris.rds,./out,iris_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/iris_5.csv'"
+421,./r_built_in_datasets/iris3.rds,./r_built_in_datasets,iris3.rds,./out,iris3_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+422,./r_built_in_datasets/islands.rds,./r_built_in_datasets,islands.rds,./out,islands_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+423,./r_built_in_datasets/JohnsonJohnson.rds,./r_built_in_datasets,JohnsonJohnson.rds,./out,JohnsonJohnson_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+424,./r_built_in_datasets/LakeHuron.rds,./r_built_in_datasets,LakeHuron.rds,./out,LakeHuron_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+425,./r_built_in_datasets/lh.rds,./r_built_in_datasets,lh.rds,./out,lh_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+426,./r_built_in_datasets/LifeCycleSavings.rds,./r_built_in_datasets,LifeCycleSavings.rds,./out,LifeCycleSavings_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/LifeCycleSavings_5.csv'"
+427,./r_built_in_datasets/Loblolly.rds,./r_built_in_datasets,Loblolly.rds,./out,Loblolly_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Loblolly_5.csv'"
+428,./r_built_in_datasets/longley.rds,./r_built_in_datasets,longley.rds,./out,longley_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/longley_5.csv'"
+429,./r_built_in_datasets/lynx.rds,./r_built_in_datasets,lynx.rds,./out,lynx_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+430,./r_built_in_datasets/morley.rds,./r_built_in_datasets,morley.rds,./out,morley_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/morley_5.csv'"
+431,./r_built_in_datasets/mtcars.rds,./r_built_in_datasets,mtcars.rds,./out,mtcars_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/mtcars_5.csv'"
+432,./r_built_in_datasets/nhtemp.rds,./r_built_in_datasets,nhtemp.rds,./out,nhtemp_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+433,./r_built_in_datasets/Nile.rds,./r_built_in_datasets,Nile.rds,./out,Nile_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+434,./r_built_in_datasets/nottem.rds,./r_built_in_datasets,nottem.rds,./out,nottem_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+435,./r_built_in_datasets/npk.rds,./r_built_in_datasets,npk.rds,./out,npk_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/npk_5.csv'"
+436,./r_built_in_datasets/occupationalStatus.rds,./r_built_in_datasets,occupationalStatus.rds,./out,occupationalStatus_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+437,./r_built_in_datasets/Orange.rds,./r_built_in_datasets,Orange.rds,./out,Orange_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Orange_5.csv'"
+438,./r_built_in_datasets/OrchardSprays.rds,./r_built_in_datasets,OrchardSprays.rds,./out,OrchardSprays_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/OrchardSprays_5.csv'"
+439,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/penguins_5.csv'"
+440,./r_built_in_datasets/PlantGrowth.rds,./r_built_in_datasets,PlantGrowth.rds,./out,PlantGrowth_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/PlantGrowth_5.csv'"
+441,./r_built_in_datasets/precip.rds,./r_built_in_datasets,precip.rds,./out,precip_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+442,./r_built_in_datasets/presidents.rds,./r_built_in_datasets,presidents.rds,./out,presidents_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+443,./r_built_in_datasets/pressure.rds,./r_built_in_datasets,pressure.rds,./out,pressure_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/pressure_5.csv'"
+444,./r_built_in_datasets/Puromycin.rds,./r_built_in_datasets,Puromycin.rds,./out,Puromycin_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Puromycin_5.csv'"
+445,./r_built_in_datasets/quakes.rds,./r_built_in_datasets,quakes.rds,./out,quakes_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/quakes_5.csv'"
+446,./r_built_in_datasets/r_built_in_datasets.R,./r_built_in_datasets,r_built_in_datasets.R,./out,r_built_in_datasets.R,FALSE,format d'entrée inconnu
+447,./r_built_in_datasets/randu.rds,./r_built_in_datasets,randu.rds,./out,randu_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/randu_5.csv'"
+448,./r_built_in_datasets/rivers.rds,./r_built_in_datasets,rivers.rds,./out,rivers_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+449,./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/rock_5.csv'"
+450,./r_built_in_datasets/Seatbelts.rds,./r_built_in_datasets,Seatbelts.rds,./out,Seatbelts_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+451,./r_built_in_datasets/sentences.rds,./r_built_in_datasets,sentences.rds,./out,sentences_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+452,./r_built_in_datasets/sleep.rds,./r_built_in_datasets,sleep.rds,./out,sleep_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/sleep_5.csv'"
+453,./r_built_in_datasets/stackloss.rds,./r_built_in_datasets,stackloss.rds,./out,stackloss_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/stackloss_5.csv'"
+454,./r_built_in_datasets/starwars.rds,./r_built_in_datasets,starwars.rds,./out,starwars_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/starwars_5.csv'"
+455,./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/storms_5.csv'"
+456,./r_built_in_datasets/sunspot.month.rds,./r_built_in_datasets,sunspot.month.rds,./out,sunspot.month_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+457,./r_built_in_datasets/sunspot.year.rds,./r_built_in_datasets,sunspot.year.rds,./out,sunspot.year_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+458,./r_built_in_datasets/sunspots.rds,./r_built_in_datasets,sunspots.rds,./out,sunspots_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+459,./r_built_in_datasets/swiss.rds,./r_built_in_datasets,swiss.rds,./out,swiss_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/swiss_5.csv'"
+460,./r_built_in_datasets/Theoph.rds,./r_built_in_datasets,Theoph.rds,./out,Theoph_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/Theoph_5.csv'"
+461,./r_built_in_datasets/Titanic.rds,./r_built_in_datasets,Titanic.rds,./out,Titanic_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+462,./r_built_in_datasets/ToothGrowth.rds,./r_built_in_datasets,ToothGrowth.rds,./out,ToothGrowth_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/ToothGrowth_5.csv'"
+463,./r_built_in_datasets/treering.rds,./r_built_in_datasets,treering.rds,./out,treering_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+464,./r_built_in_datasets/trees.rds,./r_built_in_datasets,trees.rds,./out,trees_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/trees_5.csv'"
+465,./r_built_in_datasets/UCBAdmissions.rds,./r_built_in_datasets,UCBAdmissions.rds,./out,UCBAdmissions_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+466,./r_built_in_datasets/UKDriverDeaths.rds,./r_built_in_datasets,UKDriverDeaths.rds,./out,UKDriverDeaths_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+467,./r_built_in_datasets/UKgas.rds,./r_built_in_datasets,UKgas.rds,./out,UKgas_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+468,./r_built_in_datasets/USAccDeaths.rds,./r_built_in_datasets,USAccDeaths.rds,./out,USAccDeaths_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+469,./r_built_in_datasets/USArrests.rds,./r_built_in_datasets,USArrests.rds,./out,USArrests_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USArrests_5.csv'"
+470,./r_built_in_datasets/UScitiesD.rds,./r_built_in_datasets,UScitiesD.rds,./out,UScitiesD_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+471,./r_built_in_datasets/USJudgeRatings.rds,./r_built_in_datasets,USJudgeRatings.rds,./out,USJudgeRatings_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/USJudgeRatings_5.csv'"
+472,./r_built_in_datasets/USPersonalExpenditure.rds,./r_built_in_datasets,USPersonalExpenditure.rds,./out,USPersonalExpenditure_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+473,./r_built_in_datasets/uspop.rds,./r_built_in_datasets,uspop.rds,./out,uspop_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+474,./r_built_in_datasets/VADeaths.rds,./r_built_in_datasets,VADeaths.rds,./out,VADeaths_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+475,./r_built_in_datasets/volcano.rds,./r_built_in_datasets,volcano.rds,./out,volcano_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+476,./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/warpbreaks_5.csv'"
+477,./r_built_in_datasets/women.rds,./r_built_in_datasets,women.rds,./out,women_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/women_5.csv'"
+478,./r_built_in_datasets/words.rds,./r_built_in_datasets,words.rds,./out,words_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+479,./r_built_in_datasets/WorldPhones.rds,./r_built_in_datasets,WorldPhones.rds,./out,WorldPhones_5.csv,FALSE,is.data.frame(x) n'est pas TRUE
+480,./r_built_in_datasets/WWWusage.rds,./r_built_in_datasets,WWWusage.rds,./out,WWWusage_5.csv,FALSE,is.data.frame(x) n'est pas TRUE

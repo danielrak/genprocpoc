@@ -1,0 +1,3 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+116,./r_built_in_datasets/DNase.rds,./r_built_in_datasets,DNase.rds,./out,DNase_2.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/DNase_2.csv'"

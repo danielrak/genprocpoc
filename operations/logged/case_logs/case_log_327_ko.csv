@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+327,./r_built_in_datasets/JohnsonJohnson.rds,./r_built_in_datasets,JohnsonJohnson.rds,./out,JohnsonJohnson_4.csv,FALSE,is.data.frame(x) n'est pas TRUE

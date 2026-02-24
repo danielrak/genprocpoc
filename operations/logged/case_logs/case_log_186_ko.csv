@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+186,./r_built_in_datasets/VADeaths.rds,./r_built_in_datasets,VADeaths.rds,./out,VADeaths_2.csv,FALSE,is.data.frame(x) n'est pas TRUE

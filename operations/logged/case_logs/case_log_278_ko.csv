@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+278,./r_built_in_datasets/UScitiesD.rds,./r_built_in_datasets,UScitiesD.rds,./out,UScitiesD_3.csv,FALSE,is.data.frame(x) n'est pas TRUE

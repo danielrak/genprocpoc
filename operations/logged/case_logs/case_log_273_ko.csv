@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+273,./r_built_in_datasets/UCBAdmissions.rds,./r_built_in_datasets,UCBAdmissions.rds,./out,UCBAdmissions_3.csv,FALSE,is.data.frame(x) n'est pas TRUE

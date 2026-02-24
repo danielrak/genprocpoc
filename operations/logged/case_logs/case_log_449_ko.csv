@@ -1,0 +1,3 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+449,./r_built_in_datasets/rock.rds,./r_built_in_datasets,rock.rds,./out,rock_5.csv,FALSE,"Cannot open file for writing:
+* 'D:/genprocpoc/out/rock_5.csv'"

@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+230,./r_built_in_datasets/islands.rds,./r_built_in_datasets,islands.rds,./out,islands_3.csv,FALSE,is.data.frame(x) n'est pas TRUE
