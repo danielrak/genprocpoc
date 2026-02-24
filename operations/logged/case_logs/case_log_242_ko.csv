@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-242,./r_built_in_datasets/nottem.rds,./r_built_in_datasets,nottem.rds,./out,nottem_3.csv,FALSE,is.data.frame(x) n'est pas TRUE

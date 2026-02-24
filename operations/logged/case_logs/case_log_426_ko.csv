@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-426,./r_built_in_datasets/LifeCycleSavings.rds,./r_built_in_datasets,LifeCycleSavings.rds,./out,LifeCycleSavings_5.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/LifeCycleSavings_5.csv'"

@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-167,./r_built_in_datasets/storms.rds,./r_built_in_datasets,storms.rds,./out,storms_2.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/storms_2.csv'"

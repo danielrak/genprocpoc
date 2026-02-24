@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-293,./r_built_in_datasets/anscombe.rds,./r_built_in_datasets,anscombe.rds,./out,anscombe_4.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/anscombe_4.csv'"

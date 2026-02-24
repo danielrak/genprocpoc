@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-380,./r_built_in_datasets/warpbreaks.rds,./r_built_in_datasets,warpbreaks.rds,./out,warpbreaks_4.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/warpbreaks_4.csv'"

@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-280,./r_built_in_datasets/USPersonalExpenditure.rds,./r_built_in_datasets,USPersonalExpenditure.rds,./out,USPersonalExpenditure_3.csv,FALSE,is.data.frame(x) n'est pas TRUE

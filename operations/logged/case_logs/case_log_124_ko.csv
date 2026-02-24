@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-124,./r_built_in_datasets/fruit.rds,./r_built_in_datasets,fruit.rds,./out,fruit_2.csv,FALSE,is.data.frame(x) n'est pas TRUE

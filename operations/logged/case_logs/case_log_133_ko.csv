@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-133,./r_built_in_datasets/iris3.rds,./r_built_in_datasets,iris3.rds,./out,iris3_2.csv,FALSE,is.data.frame(x) n'est pas TRUE

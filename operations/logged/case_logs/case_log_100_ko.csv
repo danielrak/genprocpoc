@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-100,./r_built_in_datasets/airquality.rds,./r_built_in_datasets,airquality.rds,./out,airquality_2.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/airquality_2.csv'"

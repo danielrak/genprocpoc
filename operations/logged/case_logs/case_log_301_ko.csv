@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-301,./r_built_in_datasets/BOD.rds,./r_built_in_datasets,BOD.rds,./out,BOD_4.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/BOD_4.csv'"

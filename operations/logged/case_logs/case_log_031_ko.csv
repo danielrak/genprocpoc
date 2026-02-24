@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-31,./r_built_in_datasets/Harman23.cor.rds,./r_built_in_datasets,Harman23.cor.rds,./out,Harman23.cor_1.csv,FALSE,is.data.frame(x) n'est pas TRUE

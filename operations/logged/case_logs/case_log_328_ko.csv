@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-328,./r_built_in_datasets/LakeHuron.rds,./r_built_in_datasets,LakeHuron.rds,./out,LakeHuron_4.csv,FALSE,is.data.frame(x) n'est pas TRUE

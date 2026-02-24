@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-430,./r_built_in_datasets/morley.rds,./r_built_in_datasets,morley.rds,./out,morley_5.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/morley_5.csv'"

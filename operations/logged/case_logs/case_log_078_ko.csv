@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-78,./r_built_in_datasets/ToothGrowth.rds,./r_built_in_datasets,ToothGrowth.rds,./out,ToothGrowth_1.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/ToothGrowth_1.csv'"

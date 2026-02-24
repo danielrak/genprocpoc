@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-339,./r_built_in_datasets/npk.rds,./r_built_in_datasets,npk.rds,./out,npk_4.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/npk_4.csv'"

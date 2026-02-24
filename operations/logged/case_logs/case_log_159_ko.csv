@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-159,./r_built_in_datasets/randu.rds,./r_built_in_datasets,randu.rds,./out,randu_2.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/randu_2.csv'"

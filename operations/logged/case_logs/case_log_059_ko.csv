@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-59,./r_built_in_datasets/pressure.rds,./r_built_in_datasets,pressure.rds,./out,pressure_1.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/pressure_1.csv'"

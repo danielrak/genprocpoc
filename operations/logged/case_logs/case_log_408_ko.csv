@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-408,./r_built_in_datasets/EuStockMarkets.rds,./r_built_in_datasets,EuStockMarkets.rds,./out,EuStockMarkets_5.csv,FALSE,is.data.frame(x) n'est pas TRUE

@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-279,./r_built_in_datasets/USJudgeRatings.rds,./r_built_in_datasets,USJudgeRatings.rds,./out,USJudgeRatings_3.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/USJudgeRatings_3.csv'"

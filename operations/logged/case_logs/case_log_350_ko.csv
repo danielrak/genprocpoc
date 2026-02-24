@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-350,./r_built_in_datasets/r_built_in_datasets.R,./r_built_in_datasets,r_built_in_datasets.R,./out,r_built_in_datasets.R,FALSE,format d'entrée inconnu

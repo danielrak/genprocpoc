@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-429,./r_built_in_datasets/lynx.rds,./r_built_in_datasets,lynx.rds,./out,lynx_5.csv,FALSE,is.data.frame(x) n'est pas TRUE

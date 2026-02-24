@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-151,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins_2.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/penguins_2.csv'"

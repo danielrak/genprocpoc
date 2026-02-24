@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-98,./r_built_in_datasets/airmiles.rds,./r_built_in_datasets,airmiles.rds,./out,airmiles_2.csv,FALSE,is.data.frame(x) n'est pas TRUE

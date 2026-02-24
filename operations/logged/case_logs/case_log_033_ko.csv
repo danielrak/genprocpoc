@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-33,./r_built_in_datasets/Indometh.rds,./r_built_in_datasets,Indometh.rds,./out,Indometh_1.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/Indometh_1.csv'"

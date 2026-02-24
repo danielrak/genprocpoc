@@ -1,2 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-52,./r_built_in_datasets/occupationalStatus.rds,./r_built_in_datasets,occupationalStatus.rds,./out,occupationalStatus_1.csv,FALSE,is.data.frame(x) n'est pas TRUE

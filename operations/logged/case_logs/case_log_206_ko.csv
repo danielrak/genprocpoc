@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-206,./r_built_in_datasets/cars.rds,./r_built_in_datasets,cars.rds,./out,cars_3.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/cars_3.csv'"

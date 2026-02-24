@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-368,./r_built_in_datasets/trees.rds,./r_built_in_datasets,trees.rds,./out,trees_4.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/trees_4.csv'"

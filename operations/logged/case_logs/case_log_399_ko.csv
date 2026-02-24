@@ -1,3 +1,0 @@
-.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
-399,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight_5.csv,FALSE,"Cannot open file for writing:
-* 'D:/genprocpoc/out/ChickWeight_5.csv'"
