@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+16,./r_built_in_datasets/chickwts.rds,./r_built_in_datasets,chickwts.rds,./out,chickwts.csv,TRUE,NA

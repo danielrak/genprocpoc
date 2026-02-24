@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+55,./r_built_in_datasets/penguins.rds,./r_built_in_datasets,penguins.rds,./out,penguins.csv,TRUE,NA

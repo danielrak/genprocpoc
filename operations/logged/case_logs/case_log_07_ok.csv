@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+7,./r_built_in_datasets/attitude.rds,./r_built_in_datasets,attitude.rds,./out,attitude.csv,TRUE,NA

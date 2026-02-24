@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+54,./r_built_in_datasets/OrchardSprays.rds,./r_built_in_datasets,OrchardSprays.rds,./out,OrchardSprays.csv,TRUE,NA

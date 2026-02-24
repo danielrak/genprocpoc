@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+15,./r_built_in_datasets/ChickWeight.rds,./r_built_in_datasets,ChickWeight.rds,./out,ChickWeight.csv,TRUE,NA

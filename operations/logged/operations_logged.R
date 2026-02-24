@@ -9,7 +9,7 @@ path_mask <- "./mask"
 
 # Mask --------------------------------------------------------------------
 
-mask <- read_csv(file.path(path_mask, "mask.csv"))
+mask <- readr::read_csv(file.path(path_mask, "mask.csv"))
 
 # Conversion_function -----------------------------------------------------
 
@@ -18,7 +18,7 @@ load("./operations/conversion_function.rda")
 # Operation ---------------------------------------------------------------
 
 myop <- callr::r_bg(
-  function(mask, conversion_function, log_csv) {
+  function(mask, conversion_function, logs_path, final_log_filename) {
     
     suppressPackageStartupMessages({
       library(dplyr)
@@ -34,10 +34,13 @@ myop <- callr::r_bg(
     on.exit(future::plan("sequential"), add = TRUE)
     
     # Ensure output folder exists
-    dir.create(dirname(log_csv), recursive = TRUE, showWarnings = FALSE)
+    dir.create(dirname(logs_path), recursive = TRUE, showWarnings = FALSE)
     
     # Add a stable row id so we can always match back
     mask2 <- mask %>% mutate(.mask_row = dplyr::row_number())
+    
+    # nrow to correctly arrange case log files
+    case_log_id_width <- nchar(nrow(mask2))
     
     # Per-row execution: return a 1-row tibble = "log line"
     logs <- mask2 %>%
@@ -60,24 +63,39 @@ myop <- callr::r_bg(
           msg <- if (ok) NA_character_ else conditionMessage(res$error)
           
           # Return original row + indicators
-          row %>%
+          case_log <- row %>%
             mutate(
               success = ok,
               error_message = msg
             )
+          
+          # Create a directory for case logs
+          case_logs_path <- file.path(logs_path, "case_logs")
+          dir.create(case_logs_path, recursive = TRUE, showWarnings = FALSE)
+          
+          # Indicator of ok/ko on case log file names
+          case_log_success_indicator <- if (is.na(msg)) "ok" else "ko"
+          
+          case_log %>% readr::write_csv(
+            file.path(case_logs_path, 
+                      paste0("case_log_", 
+                             stringr::str_pad(
+                               case_log$.mask_row, 
+                               width = case_log_id_width, pad = "0"),
+                             "_", case_log_success_indicator, ".csv")))
+          case_log
+          
         }
       )
     
     # Write final log
-    readr::write_csv(logs, log_csv)
-    
-    # Also return it (optional)
-    logs
+    readr::write_csv(logs, file.path(logs_path, final_log_filename))
   },
   args = list(
     mask = mask,
     conversion_function = conversion_function,
-    log_csv = "./operations/logged/operations_log.csv"
+    logs_path = "./operations/logged", 
+    final_log_filename = "operations_log.csv"
   ),
   stdout = "./operations/logged/operations_logged_stdout.log",
   stderr = "./operations/logged/operations_logged_stderr.log",

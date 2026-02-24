@@ -1,0 +1,2 @@
+.mask_row,lfiles,input_dir,input_file,output_dir,output_file,success,error_message
+11,./r_built_in_datasets/band_members.rds,./r_built_in_datasets,band_members.rds,./out,band_members.csv,TRUE,NA
