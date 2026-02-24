@@ -3,6 +3,10 @@
 # Minimal & parallelized & non-blocking
 # Using: furrr:: & callr::
 
+# Packages ----------------------------------------------------------------
+
+library(dplyr)
+
 # Parameters --------------------------------------------------------------
 
 path_mask <- "./mask"
@@ -10,6 +14,12 @@ path_mask <- "./mask"
 # Mask --------------------------------------------------------------------
 
 mask <- readr::read_csv(file.path(path_mask, "mask.csv"))
+
+# we try to bind 5-times the mask with itself to test if r_bg() is still running
+# after closing our session
+mask <- purrr::map_dfr(1:5, \(x) mask %>% 
+                         mutate(output_file = stringr::str_replace(
+                           output_file, "\\.csv$", paste0("_", x, ".csv"))))
 
 # Conversion_function -----------------------------------------------------
 
