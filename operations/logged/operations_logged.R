@@ -15,8 +15,9 @@ path_mask <- "./mask"
 
 mask <- readr::read_csv(file.path(path_mask, "mask.csv"))
 
-# we try to bind 5-times the mask with itself to test if r_bg() is still running
+# we try to bind 100-times the mask with itself to test if r_bg() is still running
 # after closing our session
+# [ALTERT FOR USERS WHO WANNA TRY IT OUT] !!! : IT'S VERY MACHINE-RESOURCE-HEAVY
 # mask <- purrr::map_dfr(1:100, \(x) mask %>% 
 #                          mutate(output_file = stringr::str_replace(
 #                            output_file, "\\.csv$", paste0("_", x, ".csv"))))
